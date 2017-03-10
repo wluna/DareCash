@@ -3501,3 +3501,2614 @@ Completed 200 OK in 163ms (Views: 161.0ms | ActiveRecord: 0.0ms)
 
 
 Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 01:05:44 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 09:23:03 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 785ms (Views: 770.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2017-03-10 09:23:04 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2017-03-10 09:23:04 -0500
+
+
+Started GET "/assets/materialize/animation.self-a1028b0bcf2e26331bedf7b90e81103f0707e69fdec488aa951de94b51987767.js?body=1" for ::1 at 2017-03-10 09:23:04 -0500
+
+
+Started GET "/assets/materialize/initial.self-5fc251c38da473321319aa59154bbaf8d6a0e5dd635dcb3e4de6f70af7ef6f5c.js?body=1" for ::1 at 2017-03-10 09:23:04 -0500
+
+
+Started GET "/assets/materialize/jquery.easing.1.3.self-0170bc905fbddc075a56bdccce1be6a58f3713a14137b607ba9bd9f96fd7835f.js?body=1" for ::1 at 2017-03-10 09:23:04 -0500
+
+
+Started GET "/assets/materialize/jquery.hammer.self-73fd69102f356b9abfc9ee242b19895f62454f42cfcfa1f066be71d2c8f41c7a.js?body=1" for ::1 at 2017-03-10 09:23:05 -0500
+
+
+Started GET "/assets/materialize/velocity.min.self-5adbb81af5c205a959e06198156b4b31fcd57f02c592e3fb096d7b74e8f401a6.js?body=1" for ::1 at 2017-03-10 09:23:05 -0500
+
+
+Started GET "/assets/materialize/global.self-90649deff3358499c5859330da1363eea3e2bef75c80df5940f3894778f95027.js?body=1" for ::1 at 2017-03-10 09:23:05 -0500
+
+
+Started GET "/assets/materialize/hammer.min.self-bf8bdb0953b1a135f96716e362e1f7a8e64168c914fa77ca31973bb70e57a731.js?body=1" for ::1 at 2017-03-10 09:23:05 -0500
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 09:23:05 -0500
+
+
+Started GET "/assets/materialize/collapsible.self-28e651bb34f045977f525ed2f35a22955e549b9e783851dba0b75b480c75abb2.js?body=1" for ::1 at 2017-03-10 09:23:05 -0500
+
+
+Started GET "/assets/materialize/dropdown.self-a1ff4400a417f25698cc5cc70e36e273953beaf52226d09b3795ce3edc473a66.js?body=1" for ::1 at 2017-03-10 09:23:05 -0500
+
+
+Started GET "/assets/materialize/leanModal.self-4db1374f875e0a1a2ba3389d23cae8f6f0c2672e7e69aeab7645ed51d26e6915.js?body=1" for ::1 at 2017-03-10 09:23:05 -0500
+
+
+Started GET "/assets/materialize/materialbox.self-6c6b2ba48598681c90551b540338699c75cf2f9ada34cc4b22570c217b9292d8.js?body=1" for ::1 at 2017-03-10 09:23:05 -0500
+
+
+Started GET "/assets/materialize/parallax.self-7ac34f0f3dcef83deee116ea473a2770cec13e07c8e0dcce08cc2372bbe295d3.js?body=1" for ::1 at 2017-03-10 09:23:05 -0500
+
+
+Started GET "/assets/materialize/tabs.self-922f8a5ef8f7381c945259a9f1dcaf6d628630cda8fcbbfe182ea653091b165c.js?body=1" for ::1 at 2017-03-10 09:23:05 -0500
+
+
+Started GET "/assets/materialize/toasts.self-1eaa9f33c4c3b83f381997876ba6ac53899a5ca72a6b401708c32625fc553adc.js?body=1" for ::1 at 2017-03-10 09:23:05 -0500
+
+
+Started GET "/assets/materialize/waves.self-26e9b9cfaa9ccbc292ed510f654bd279d69695f5337a14c9800b36e92f96735b.js?body=1" for ::1 at 2017-03-10 09:23:05 -0500
+
+
+Started GET "/assets/materialize/tooltip.self-df3538fd067523c8b7f4d50e060340ec0b551ebaba9733e157c404df9a96a185.js?body=1" for ::1 at 2017-03-10 09:23:05 -0500
+
+
+Started GET "/assets/materialize/sideNav.self-d1aa0f50b6f5d0d9a7086344d806fc133274dd021e58f837cbe39e309012045b.js?body=1" for ::1 at 2017-03-10 09:23:05 -0500
+
+
+Started GET "/assets/materialize/scrollspy.self-9bd8d701ac90c813a0d051ab4943150bdb536d863646d8b349c42a88edb31cf8.js?body=1" for ::1 at 2017-03-10 09:23:05 -0500
+
+
+Started GET "/assets/materialize/forms.self-95e85e335577e28202a4b4034a754320f866221010ed4a0be2cbf6af0dd79f1d.js?body=1" for ::1 at 2017-03-10 09:23:05 -0500
+
+
+Started GET "/assets/materialize/slider.self-8052f7188f9e8ab3d03b246d4942a4824edb9614d0d130051d11ba1354c9c798.js?body=1" for ::1 at 2017-03-10 09:23:05 -0500
+
+
+Started GET "/assets/materialize/chips.self-9b19ca899ba360746581059852bf2a40b3338402eef9df9a7806efd8578056dd.js?body=1" for ::1 at 2017-03-10 09:23:05 -0500
+
+
+Started GET "/assets/materialize/pushpin.self-3e487290a48f23142c992c158b45cbd0be9c83de7c23abbb33b195954d1883cd.js?body=1" for ::1 at 2017-03-10 09:23:05 -0500
+
+
+Started GET "/assets/materialize/buttons.self-fc0951c300b1984a00694eabc8c451531be448d646ac073b05e4d2fbf7209302.js?body=1" for ::1 at 2017-03-10 09:23:05 -0500
+
+
+Started GET "/assets/materialize/transitions.self-c527b205edfdd1f961487c4c7beaf83c335262accb4dff964341a86eb60fd2f2.js?body=1" for ::1 at 2017-03-10 09:23:05 -0500
+
+
+Started GET "/assets/materialize/scrollFire.self-d38b34eac05d33baa79181ef5ba72c67b7f73714ff11cda22495d30f4469298f.js?body=1" for ::1 at 2017-03-10 09:23:05 -0500
+
+
+Started GET "/assets/materialize/date_picker/picker.self-f7869dc9881d3874917e009ea6e30d68817b1bd1247665fb653e0f87393fb60f.js?body=1" for ::1 at 2017-03-10 09:23:05 -0500
+
+
+Started GET "/assets/materialize/date_picker/picker.date.self-5924b278beda2df8570f137f72b37e2d0f516acbc11a0994d1abb74380f078ef.js?body=1" for ::1 at 2017-03-10 09:23:05 -0500
+
+
+Started GET "/assets/materialize/carousel.self-6f3b9002af3ab4d871a03a44d2e174370720ab31f19a4ee543c1904c32e2befa.js?body=1" for ::1 at 2017-03-10 09:23:05 -0500
+
+
+Started GET "/assets/materialize/character_counter.self-f3a78940ad5b851c1b7b79d86a5d5d9bdf0dc15e0e58e2a58b3eb57d845fbd37.js?body=1" for ::1 at 2017-03-10 09:23:05 -0500
+
+
+Started GET "/assets/materialize-sprockets.self-4691589913babdfbd3fb736895105a8e826d4abde842e6d1e8dd2d188e255bc7.js?body=1" for ::1 at 2017-03-10 09:23:05 -0500
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2017-03-10 09:23:05 -0500
+
+
+Started GET "/assets/application.self-470026d70334225a292b1a3a8b89aa9ceb9948733d73b9dd70e18e8354b1033c.js?body=1" for ::1 at 2017-03-10 09:23:05 -0500
+
+
+Started GET "/assets/materialize/cards.self-b1de04b6f5f525d63199f556bb55d5b8bdae7170b91bfcb503958bc8ed10945b.js?body=1" for ::1 at 2017-03-10 09:23:05 -0500
+
+
+Started GET "/assets/smoothscroll.self-db493ba7f514800870cb77c14d3b00abb4597b3945c9825eb94cc01df999c182.js?body=1" for ::1 at 2017-03-10 09:23:05 -0500
+
+
+Started GET "/assets/roboto/Roboto-Regular-b5c9c23bd12593523a46d79dd0aee80e3226bbde4c9ac05fc30a95e2c1510de0.woff2" for ::1 at 2017-03-10 09:23:05 -0500
+
+
+Started GET "/assets/favicon-786bd08112874d93d4f0fde0a432c0e941b5834477f07f150e19975a147af86a.ico" for ::1 at 2017-03-10 09:23:05 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 09:23:24 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 803ms (Views: 783.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2017-03-10 09:23:25 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2017-03-10 09:23:25 -0500
+
+
+Started GET "/assets/materialize/initial.self-5fc251c38da473321319aa59154bbaf8d6a0e5dd635dcb3e4de6f70af7ef6f5c.js?body=1" for ::1 at 2017-03-10 09:23:25 -0500
+
+
+Started GET "/assets/materialize/hammer.min.self-bf8bdb0953b1a135f96716e362e1f7a8e64168c914fa77ca31973bb70e57a731.js?body=1" for ::1 at 2017-03-10 09:23:25 -0500
+
+
+Started GET "/assets/materialize/jquery.easing.1.3.self-0170bc905fbddc075a56bdccce1be6a58f3713a14137b607ba9bd9f96fd7835f.js?body=1" for ::1 at 2017-03-10 09:23:25 -0500
+
+
+Started GET "/assets/materialize/animation.self-a1028b0bcf2e26331bedf7b90e81103f0707e69fdec488aa951de94b51987767.js?body=1" for ::1 at 2017-03-10 09:23:25 -0500
+
+
+Started GET "/assets/materialize/jquery.hammer.self-73fd69102f356b9abfc9ee242b19895f62454f42cfcfa1f066be71d2c8f41c7a.js?body=1" for ::1 at 2017-03-10 09:23:25 -0500
+
+
+Started GET "/assets/materialize/global.self-90649deff3358499c5859330da1363eea3e2bef75c80df5940f3894778f95027.js?body=1" for ::1 at 2017-03-10 09:23:25 -0500
+
+
+Started GET "/assets/materialize/velocity.min.self-5adbb81af5c205a959e06198156b4b31fcd57f02c592e3fb096d7b74e8f401a6.js?body=1" for ::1 at 2017-03-10 09:23:25 -0500
+
+
+Started GET "/assets/materialize/collapsible.self-28e651bb34f045977f525ed2f35a22955e549b9e783851dba0b75b480c75abb2.js?body=1" for ::1 at 2017-03-10 09:23:25 -0500
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 09:23:25 -0500
+
+
+Started GET "/assets/materialize/dropdown.self-a1ff4400a417f25698cc5cc70e36e273953beaf52226d09b3795ce3edc473a66.js?body=1" for ::1 at 2017-03-10 09:23:25 -0500
+
+
+Started GET "/assets/materialize/materialbox.self-6c6b2ba48598681c90551b540338699c75cf2f9ada34cc4b22570c217b9292d8.js?body=1" for ::1 at 2017-03-10 09:23:25 -0500
+
+
+Started GET "/assets/materialize/leanModal.self-4db1374f875e0a1a2ba3389d23cae8f6f0c2672e7e69aeab7645ed51d26e6915.js?body=1" for ::1 at 2017-03-10 09:23:25 -0500
+
+
+Started GET "/assets/materialize/parallax.self-7ac34f0f3dcef83deee116ea473a2770cec13e07c8e0dcce08cc2372bbe295d3.js?body=1" for ::1 at 2017-03-10 09:23:25 -0500
+
+
+Started GET "/assets/materialize/tabs.self-922f8a5ef8f7381c945259a9f1dcaf6d628630cda8fcbbfe182ea653091b165c.js?body=1" for ::1 at 2017-03-10 09:23:25 -0500
+
+
+Started GET "/assets/materialize/tooltip.self-df3538fd067523c8b7f4d50e060340ec0b551ebaba9733e157c404df9a96a185.js?body=1" for ::1 at 2017-03-10 09:23:25 -0500
+
+
+Started GET "/assets/materialize/waves.self-26e9b9cfaa9ccbc292ed510f654bd279d69695f5337a14c9800b36e92f96735b.js?body=1" for ::1 at 2017-03-10 09:23:25 -0500
+
+
+Started GET "/assets/materialize/toasts.self-1eaa9f33c4c3b83f381997876ba6ac53899a5ca72a6b401708c32625fc553adc.js?body=1" for ::1 at 2017-03-10 09:23:25 -0500
+
+
+Started GET "/assets/materialize/sideNav.self-d1aa0f50b6f5d0d9a7086344d806fc133274dd021e58f837cbe39e309012045b.js?body=1" for ::1 at 2017-03-10 09:23:25 -0500
+
+
+Started GET "/assets/materialize/scrollspy.self-9bd8d701ac90c813a0d051ab4943150bdb536d863646d8b349c42a88edb31cf8.js?body=1" for ::1 at 2017-03-10 09:23:25 -0500
+
+
+Started GET "/assets/materialize/slider.self-8052f7188f9e8ab3d03b246d4942a4824edb9614d0d130051d11ba1354c9c798.js?body=1" for ::1 at 2017-03-10 09:23:25 -0500
+
+
+Started GET "/assets/materialize/forms.self-95e85e335577e28202a4b4034a754320f866221010ed4a0be2cbf6af0dd79f1d.js?body=1" for ::1 at 2017-03-10 09:23:25 -0500
+
+
+Started GET "/assets/materialize/chips.self-9b19ca899ba360746581059852bf2a40b3338402eef9df9a7806efd8578056dd.js?body=1" for ::1 at 2017-03-10 09:23:25 -0500
+
+
+Started GET "/assets/materialize/cards.self-b1de04b6f5f525d63199f556bb55d5b8bdae7170b91bfcb503958bc8ed10945b.js?body=1" for ::1 at 2017-03-10 09:23:25 -0500
+
+
+Started GET "/assets/materialize/pushpin.self-3e487290a48f23142c992c158b45cbd0be9c83de7c23abbb33b195954d1883cd.js?body=1" for ::1 at 2017-03-10 09:23:25 -0500
+
+
+Started GET "/assets/materialize/buttons.self-fc0951c300b1984a00694eabc8c451531be448d646ac073b05e4d2fbf7209302.js?body=1" for ::1 at 2017-03-10 09:23:26 -0500
+
+
+Started GET "/assets/materialize/scrollFire.self-d38b34eac05d33baa79181ef5ba72c67b7f73714ff11cda22495d30f4469298f.js?body=1" for ::1 at 2017-03-10 09:23:26 -0500
+
+
+Started GET "/assets/materialize/transitions.self-c527b205edfdd1f961487c4c7beaf83c335262accb4dff964341a86eb60fd2f2.js?body=1" for ::1 at 2017-03-10 09:23:26 -0500
+
+
+Started GET "/assets/materialize/date_picker/picker.self-f7869dc9881d3874917e009ea6e30d68817b1bd1247665fb653e0f87393fb60f.js?body=1" for ::1 at 2017-03-10 09:23:26 -0500
+
+
+Started GET "/assets/materialize/date_picker/picker.date.self-5924b278beda2df8570f137f72b37e2d0f516acbc11a0994d1abb74380f078ef.js?body=1" for ::1 at 2017-03-10 09:23:26 -0500
+
+
+Started GET "/assets/materialize/character_counter.self-f3a78940ad5b851c1b7b79d86a5d5d9bdf0dc15e0e58e2a58b3eb57d845fbd37.js?body=1" for ::1 at 2017-03-10 09:23:26 -0500
+
+
+Started GET "/assets/materialize/carousel.self-6f3b9002af3ab4d871a03a44d2e174370720ab31f19a4ee543c1904c32e2befa.js?body=1" for ::1 at 2017-03-10 09:23:26 -0500
+
+
+Started GET "/assets/materialize-sprockets.self-4691589913babdfbd3fb736895105a8e826d4abde842e6d1e8dd2d188e255bc7.js?body=1" for ::1 at 2017-03-10 09:23:26 -0500
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2017-03-10 09:23:26 -0500
+
+
+Started GET "/assets/smoothscroll.self-db493ba7f514800870cb77c14d3b00abb4597b3945c9825eb94cc01df999c182.js?body=1" for ::1 at 2017-03-10 09:23:26 -0500
+
+
+Started GET "/assets/application.self-470026d70334225a292b1a3a8b89aa9ceb9948733d73b9dd70e18e8354b1033c.js?body=1" for ::1 at 2017-03-10 09:23:26 -0500
+
+
+Started GET "/assets/roboto/Roboto-Regular-b5c9c23bd12593523a46d79dd0aee80e3226bbde4c9ac05fc30a95e2c1510de0.woff2" for ::1 at 2017-03-10 09:23:26 -0500
+
+
+Started GET "/assets/favicon-786bd08112874d93d4f0fde0a432c0e941b5834477f07f150e19975a147af86a.ico" for ::1 at 2017-03-10 09:23:26 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 09:23:47 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 795ms (Views: 783.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 09:23:48 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 09:24:43 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 772ms (Views: 756.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 09:24:44 -0500
+
+
+Started GET "/assets/favicon-786bd08112874d93d4f0fde0a432c0e941b5834477f07f150e19975a147af86a.ico" for ::1 at 2017-03-10 09:24:44 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 09:25:32 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 769ms (Views: 757.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 09:25:33 -0500
+
+
+Started GET "/assets/favicon-786bd08112874d93d4f0fde0a432c0e941b5834477f07f150e19975a147af86a.ico" for ::1 at 2017-03-10 09:25:33 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 09:25:46 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 166ms (Views: 165.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 09:25:46 -0500
+
+
+Started GET "/assets/favicon-786bd08112874d93d4f0fde0a432c0e941b5834477f07f150e19975a147af86a.ico" for ::1 at 2017-03-10 09:25:47 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 09:26:03 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 746ms (Views: 733.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 09:26:04 -0500
+
+
+Started GET "/assets/favicon-786bd08112874d93d4f0fde0a432c0e941b5834477f07f150e19975a147af86a.ico" for ::1 at 2017-03-10 09:26:05 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 09:29:12 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 746ms (Views: 733.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 09:29:13 -0500
+
+
+Started GET "/assets/favicon-786bd08112874d93d4f0fde0a432c0e941b5834477f07f150e19975a147af86a.ico" for ::1 at 2017-03-10 09:29:14 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 09:33:25 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 765ms (Views: 753.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 09:33:26 -0500
+
+
+Started GET "/assets/favicon-786bd08112874d93d4f0fde0a432c0e941b5834477f07f150e19975a147af86a.ico" for ::1 at 2017-03-10 09:33:27 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 09:34:46 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 1204ms (Views: 1192.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 09:34:48 -0500
+
+
+Started GET "/images/favicon.ico" for ::1 at 2017-03-10 09:34:48 -0500
+
+ActionController::RoutingError (No route matches [GET] "/images/favicon.ico"):
+  actionpack (4.2.5.2) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.5.2) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.5.2) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.5.2) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.5.2) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.5.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.5.2) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.5.2) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.5.2) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.5.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.5.2) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.5.2) lib/rails/engine.rb:518:in `call'
+  railties (4.2.5.2) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/Will/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /Users/Will/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /Users/Will/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /Users/Will/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.7ms)
+  Rendered /Users/Will/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.9ms)
+  Rendered /Users/Will/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (10.7ms)
+  Rendered /Users/Will/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.8ms)
+  Rendered /Users/Will/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (121.0ms)
+  Rendered /Users/Will/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /Users/Will/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.7ms)
+  Rendered /Users/Will/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/Will/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/Will/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (84.4ms)
+  Rendered /Users/Will/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/Will/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/Will/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (177.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-10 09:35:38 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 647ms (Views: 633.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 09:35:39 -0500
+
+
+Started GET "/assets/logo-36fbd2f96c61cdcc3711db8296e518c576e8c73424ae7d5b616eef6524707128.png" for ::1 at 2017-03-10 09:35:39 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 09:44:48 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 750ms (Views: 736.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 09:44:49 -0500
+
+
+Started GET "/assets/logo-cf9a73eaec651b8e10db8219a8a7fcd073a78d6a2a7e9e14ca08154e8d368554.png" for ::1 at 2017-03-10 09:44:49 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 09:46:18 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 730ms (Views: 717.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 09:46:19 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 09:49:26 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 729ms (Views: 716.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 09:49:27 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 09:51:49 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 788ms (Views: 775.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 09:51:50 -0500
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2017-03-10 09:51:50 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2017-03-10 09:51:50 -0500
+
+
+Started GET "/assets/materialize/initial.self-5fc251c38da473321319aa59154bbaf8d6a0e5dd635dcb3e4de6f70af7ef6f5c.js?body=1" for ::1 at 2017-03-10 09:51:50 -0500
+
+
+Started GET "/assets/materialize/jquery.easing.1.3.self-0170bc905fbddc075a56bdccce1be6a58f3713a14137b607ba9bd9f96fd7835f.js?body=1" for ::1 at 2017-03-10 09:51:50 -0500
+
+
+Started GET "/assets/materialize/animation.self-a1028b0bcf2e26331bedf7b90e81103f0707e69fdec488aa951de94b51987767.js?body=1" for ::1 at 2017-03-10 09:51:50 -0500
+
+
+Started GET "/assets/materialize/velocity.min.self-5adbb81af5c205a959e06198156b4b31fcd57f02c592e3fb096d7b74e8f401a6.js?body=1" for ::1 at 2017-03-10 09:51:50 -0500
+
+
+Started GET "/assets/materialize/hammer.min.self-bf8bdb0953b1a135f96716e362e1f7a8e64168c914fa77ca31973bb70e57a731.js?body=1" for ::1 at 2017-03-10 09:51:50 -0500
+
+
+Started GET "/assets/materialize/jquery.hammer.self-73fd69102f356b9abfc9ee242b19895f62454f42cfcfa1f066be71d2c8f41c7a.js?body=1" for ::1 at 2017-03-10 09:51:50 -0500
+
+
+Started GET "/assets/materialize/global.self-90649deff3358499c5859330da1363eea3e2bef75c80df5940f3894778f95027.js?body=1" for ::1 at 2017-03-10 09:51:50 -0500
+
+
+Started GET "/assets/materialize/collapsible.self-28e651bb34f045977f525ed2f35a22955e549b9e783851dba0b75b480c75abb2.js?body=1" for ::1 at 2017-03-10 09:51:50 -0500
+
+
+Started GET "/assets/materialize/dropdown.self-a1ff4400a417f25698cc5cc70e36e273953beaf52226d09b3795ce3edc473a66.js?body=1" for ::1 at 2017-03-10 09:51:50 -0500
+
+
+Started GET "/assets/materialize/leanModal.self-4db1374f875e0a1a2ba3389d23cae8f6f0c2672e7e69aeab7645ed51d26e6915.js?body=1" for ::1 at 2017-03-10 09:51:50 -0500
+
+
+Started GET "/assets/materialize/materialbox.self-6c6b2ba48598681c90551b540338699c75cf2f9ada34cc4b22570c217b9292d8.js?body=1" for ::1 at 2017-03-10 09:51:50 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 09:51:50 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 143ms (Views: 134.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 09:51:50 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 09:51:57 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 107ms (Views: 106.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 09:51:57 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 09:52:07 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 824ms (Views: 809.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-10 09:52:08 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 155ms (Views: 153.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 09:52:09 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 09:53:21 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 1170ms (Views: 1157.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 09:53:22 -0500
+
+
+Started GET "/assets/application.self-412fefcfba484978a2981bf48c8b20162a50a684bc66f39711eaf9d64aa9cf4a.js?body=1" for ::1 at 2017-03-10 09:53:22 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 09:53:56 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 680ms (Views: 666.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 09:53:57 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 09:55:13 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 654ms (Views: 642.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 09:55:14 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 09:56:29 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 759ms (Views: 745.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 09:56:30 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 09:57:51 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 690ms (Views: 677.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 09:57:52 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 09:59:23 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 733ms (Views: 714.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 09:59:24 -0500
+
+
+Started GET "/assets/logo-cf9a73eaec651b8e10db8219a8a7fcd073a78d6a2a7e9e14ca08154e8d368554.png" for ::1 at 2017-03-10 09:59:24 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 09:59:48 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 829ms (Views: 812.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-10 09:59:49 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 172ms (Views: 171.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 09:59:50 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:00:18 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 645ms (Views: 633.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:00:19 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:00:57 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 695ms (Views: 681.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:00:58 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:02:48 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 660ms (Views: 647.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:02:48 -0500
+
+
+Started GET "/assets/logo-cf9a73eaec651b8e10db8219a8a7fcd073a78d6a2a7e9e14ca08154e8d368554.png" for ::1 at 2017-03-10 10:02:49 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:03:28 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 668ms (Views: 656.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:03:29 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:04:47 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 187ms (Views: 186.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:04:47 -0500
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2017-03-10 10:04:47 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2017-03-10 10:04:47 -0500
+
+
+Started GET "/assets/materialize/initial.self-5fc251c38da473321319aa59154bbaf8d6a0e5dd635dcb3e4de6f70af7ef6f5c.js?body=1" for ::1 at 2017-03-10 10:04:47 -0500
+
+
+Started GET "/assets/materialize/jquery.hammer.self-73fd69102f356b9abfc9ee242b19895f62454f42cfcfa1f066be71d2c8f41c7a.js?body=1" for ::1 at 2017-03-10 10:04:47 -0500
+
+
+Started GET "/assets/materialize/animation.self-a1028b0bcf2e26331bedf7b90e81103f0707e69fdec488aa951de94b51987767.js?body=1" for ::1 at 2017-03-10 10:04:47 -0500
+
+
+Started GET "/assets/materialize/global.self-90649deff3358499c5859330da1363eea3e2bef75c80df5940f3894778f95027.js?body=1" for ::1 at 2017-03-10 10:04:47 -0500
+
+
+Started GET "/assets/materialize/hammer.min.self-bf8bdb0953b1a135f96716e362e1f7a8e64168c914fa77ca31973bb70e57a731.js?body=1" for ::1 at 2017-03-10 10:04:47 -0500
+
+
+Started GET "/assets/materialize/collapsible.self-28e651bb34f045977f525ed2f35a22955e549b9e783851dba0b75b480c75abb2.js?body=1" for ::1 at 2017-03-10 10:04:48 -0500
+
+
+Started GET "/assets/materialize/velocity.min.self-5adbb81af5c205a959e06198156b4b31fcd57f02c592e3fb096d7b74e8f401a6.js?body=1" for ::1 at 2017-03-10 10:04:48 -0500
+
+
+Started GET "/assets/materialize/jquery.easing.1.3.self-0170bc905fbddc075a56bdccce1be6a58f3713a14137b607ba9bd9f96fd7835f.js?body=1" for ::1 at 2017-03-10 10:04:48 -0500
+
+
+Started GET "/assets/materialize/dropdown.self-a1ff4400a417f25698cc5cc70e36e273953beaf52226d09b3795ce3edc473a66.js?body=1" for ::1 at 2017-03-10 10:04:48 -0500
+
+
+Started GET "/assets/materialize/leanModal.self-4db1374f875e0a1a2ba3389d23cae8f6f0c2672e7e69aeab7645ed51d26e6915.js?body=1" for ::1 at 2017-03-10 10:04:48 -0500
+
+
+Started GET "/assets/materialize/materialbox.self-6c6b2ba48598681c90551b540338699c75cf2f9ada34cc4b22570c217b9292d8.js?body=1" for ::1 at 2017-03-10 10:04:48 -0500
+
+
+Started GET "/assets/materialize/parallax.self-7ac34f0f3dcef83deee116ea473a2770cec13e07c8e0dcce08cc2372bbe295d3.js?body=1" for ::1 at 2017-03-10 10:04:48 -0500
+
+
+Started GET "/assets/materialize/tabs.self-922f8a5ef8f7381c945259a9f1dcaf6d628630cda8fcbbfe182ea653091b165c.js?body=1" for ::1 at 2017-03-10 10:04:48 -0500
+
+
+Started GET "/assets/materialize/tooltip.self-df3538fd067523c8b7f4d50e060340ec0b551ebaba9733e157c404df9a96a185.js?body=1" for ::1 at 2017-03-10 10:04:48 -0500
+
+
+Started GET "/assets/materialize/waves.self-26e9b9cfaa9ccbc292ed510f654bd279d69695f5337a14c9800b36e92f96735b.js?body=1" for ::1 at 2017-03-10 10:04:48 -0500
+
+
+Started GET "/assets/materialize/toasts.self-1eaa9f33c4c3b83f381997876ba6ac53899a5ca72a6b401708c32625fc553adc.js?body=1" for ::1 at 2017-03-10 10:04:48 -0500
+
+
+Started GET "/assets/materialize/sideNav.self-d1aa0f50b6f5d0d9a7086344d806fc133274dd021e58f837cbe39e309012045b.js?body=1" for ::1 at 2017-03-10 10:04:48 -0500
+
+
+Started GET "/assets/materialize/scrollspy.self-9bd8d701ac90c813a0d051ab4943150bdb536d863646d8b349c42a88edb31cf8.js?body=1" for ::1 at 2017-03-10 10:04:48 -0500
+
+
+Started GET "/assets/materialize/forms.self-95e85e335577e28202a4b4034a754320f866221010ed4a0be2cbf6af0dd79f1d.js?body=1" for ::1 at 2017-03-10 10:04:48 -0500
+
+
+Started GET "/assets/materialize/slider.self-8052f7188f9e8ab3d03b246d4942a4824edb9614d0d130051d11ba1354c9c798.js?body=1" for ::1 at 2017-03-10 10:04:48 -0500
+
+
+Started GET "/assets/materialize/chips.self-9b19ca899ba360746581059852bf2a40b3338402eef9df9a7806efd8578056dd.js?body=1" for ::1 at 2017-03-10 10:04:48 -0500
+
+
+Started GET "/assets/materialize/pushpin.self-3e487290a48f23142c992c158b45cbd0be9c83de7c23abbb33b195954d1883cd.js?body=1" for ::1 at 2017-03-10 10:04:48 -0500
+
+
+Started GET "/assets/materialize/buttons.self-fc0951c300b1984a00694eabc8c451531be448d646ac073b05e4d2fbf7209302.js?body=1" for ::1 at 2017-03-10 10:04:48 -0500
+
+
+Started GET "/assets/materialize/transitions.self-c527b205edfdd1f961487c4c7beaf83c335262accb4dff964341a86eb60fd2f2.js?body=1" for ::1 at 2017-03-10 10:04:48 -0500
+
+
+Started GET "/assets/materialize/scrollFire.self-d38b34eac05d33baa79181ef5ba72c67b7f73714ff11cda22495d30f4469298f.js?body=1" for ::1 at 2017-03-10 10:04:48 -0500
+
+
+Started GET "/assets/materialize/date_picker/picker.self-f7869dc9881d3874917e009ea6e30d68817b1bd1247665fb653e0f87393fb60f.js?body=1" for ::1 at 2017-03-10 10:04:48 -0500
+
+
+Started GET "/assets/materialize/date_picker/picker.date.self-5924b278beda2df8570f137f72b37e2d0f516acbc11a0994d1abb74380f078ef.js?body=1" for ::1 at 2017-03-10 10:04:48 -0500
+
+
+Started GET "/assets/materialize/character_counter.self-f3a78940ad5b851c1b7b79d86a5d5d9bdf0dc15e0e58e2a58b3eb57d845fbd37.js?body=1" for ::1 at 2017-03-10 10:04:48 -0500
+
+
+Started GET "/assets/materialize/carousel.self-6f3b9002af3ab4d871a03a44d2e174370720ab31f19a4ee543c1904c32e2befa.js?body=1" for ::1 at 2017-03-10 10:04:48 -0500
+
+
+Started GET "/assets/materialize-sprockets.self-4691589913babdfbd3fb736895105a8e826d4abde842e6d1e8dd2d188e255bc7.js?body=1" for ::1 at 2017-03-10 10:04:48 -0500
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2017-03-10 10:04:48 -0500
+
+
+Started GET "/assets/smoothscroll.self-db493ba7f514800870cb77c14d3b00abb4597b3945c9825eb94cc01df999c182.js?body=1" for ::1 at 2017-03-10 10:04:48 -0500
+
+
+Started GET "/assets/application.self-412fefcfba484978a2981bf48c8b20162a50a684bc66f39711eaf9d64aa9cf4a.js?body=1" for ::1 at 2017-03-10 10:04:48 -0500
+
+
+Started GET "/assets/materialize/cards.self-b1de04b6f5f525d63199f556bb55d5b8bdae7170b91bfcb503958bc8ed10945b.js?body=1" for ::1 at 2017-03-10 10:04:48 -0500
+
+
+Started GET "/assets/roboto/Roboto-Regular-b5c9c23bd12593523a46d79dd0aee80e3226bbde4c9ac05fc30a95e2c1510de0.woff2" for ::1 at 2017-03-10 10:04:48 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:05:03 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 727ms (Views: 716.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo-cf9a73eaec651b8e10db8219a8a7fcd073a78d6a2a7e9e14ca08154e8d368554.png" for ::1 at 2017-03-10 10:05:04 -0500
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:05:04 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:06:33 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 666ms (Views: 649.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:06:34 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:13:03 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (796.2ms)
+Completed 200 OK in 1269ms (Views: 1256.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:13:04 -0500
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2017-03-10 10:13:05 -0500
+
+
+Started GET "/assets/materialize/animation.self-a1028b0bcf2e26331bedf7b90e81103f0707e69fdec488aa951de94b51987767.js?body=1" for ::1 at 2017-03-10 10:13:05 -0500
+
+
+Started GET "/assets/materialize/initial.self-5fc251c38da473321319aa59154bbaf8d6a0e5dd635dcb3e4de6f70af7ef6f5c.js?body=1" for ::1 at 2017-03-10 10:13:05 -0500
+
+
+Started GET "/assets/materialize/jquery.easing.1.3.self-0170bc905fbddc075a56bdccce1be6a58f3713a14137b607ba9bd9f96fd7835f.js?body=1" for ::1 at 2017-03-10 10:13:05 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2017-03-10 10:13:05 -0500
+
+
+Started GET "/assets/materialize/velocity.min.self-5adbb81af5c205a959e06198156b4b31fcd57f02c592e3fb096d7b74e8f401a6.js?body=1" for ::1 at 2017-03-10 10:13:05 -0500
+
+
+Started GET "/assets/materialize/hammer.min.self-bf8bdb0953b1a135f96716e362e1f7a8e64168c914fa77ca31973bb70e57a731.js?body=1" for ::1 at 2017-03-10 10:13:05 -0500
+
+
+Started GET "/assets/materialize/jquery.hammer.self-73fd69102f356b9abfc9ee242b19895f62454f42cfcfa1f066be71d2c8f41c7a.js?body=1" for ::1 at 2017-03-10 10:13:05 -0500
+
+
+Started GET "/assets/materialize/global.self-90649deff3358499c5859330da1363eea3e2bef75c80df5940f3894778f95027.js?body=1" for ::1 at 2017-03-10 10:13:05 -0500
+
+
+Started GET "/assets/materialize/collapsible.self-28e651bb34f045977f525ed2f35a22955e549b9e783851dba0b75b480c75abb2.js?body=1" for ::1 at 2017-03-10 10:13:05 -0500
+
+
+Started GET "/assets/materialize/dropdown.self-a1ff4400a417f25698cc5cc70e36e273953beaf52226d09b3795ce3edc473a66.js?body=1" for ::1 at 2017-03-10 10:13:05 -0500
+
+
+Started GET "/assets/materialize/materialbox.self-6c6b2ba48598681c90551b540338699c75cf2f9ada34cc4b22570c217b9292d8.js?body=1" for ::1 at 2017-03-10 10:13:05 -0500
+
+
+Started GET "/assets/materialize/parallax.self-7ac34f0f3dcef83deee116ea473a2770cec13e07c8e0dcce08cc2372bbe295d3.js?body=1" for ::1 at 2017-03-10 10:13:05 -0500
+
+
+Started GET "/assets/materialize/tabs.self-922f8a5ef8f7381c945259a9f1dcaf6d628630cda8fcbbfe182ea653091b165c.js?body=1" for ::1 at 2017-03-10 10:13:05 -0500
+
+
+Started GET "/assets/materialize/tooltip.self-df3538fd067523c8b7f4d50e060340ec0b551ebaba9733e157c404df9a96a185.js?body=1" for ::1 at 2017-03-10 10:13:05 -0500
+
+
+Started GET "/assets/materialize/leanModal.self-4db1374f875e0a1a2ba3389d23cae8f6f0c2672e7e69aeab7645ed51d26e6915.js?body=1" for ::1 at 2017-03-10 10:13:05 -0500
+
+
+Started GET "/assets/materialize/waves.self-26e9b9cfaa9ccbc292ed510f654bd279d69695f5337a14c9800b36e92f96735b.js?body=1" for ::1 at 2017-03-10 10:13:05 -0500
+
+
+Started GET "/assets/materialize/toasts.self-1eaa9f33c4c3b83f381997876ba6ac53899a5ca72a6b401708c32625fc553adc.js?body=1" for ::1 at 2017-03-10 10:13:05 -0500
+
+
+Started GET "/assets/materialize/sideNav.self-d1aa0f50b6f5d0d9a7086344d806fc133274dd021e58f837cbe39e309012045b.js?body=1" for ::1 at 2017-03-10 10:13:05 -0500
+
+
+Started GET "/assets/materialize/forms.self-95e85e335577e28202a4b4034a754320f866221010ed4a0be2cbf6af0dd79f1d.js?body=1" for ::1 at 2017-03-10 10:13:05 -0500
+
+
+Started GET "/assets/materialize/scrollspy.self-9bd8d701ac90c813a0d051ab4943150bdb536d863646d8b349c42a88edb31cf8.js?body=1" for ::1 at 2017-03-10 10:13:05 -0500
+
+
+Started GET "/assets/materialize/cards.self-b1de04b6f5f525d63199f556bb55d5b8bdae7170b91bfcb503958bc8ed10945b.js?body=1" for ::1 at 2017-03-10 10:13:05 -0500
+
+
+Started GET "/assets/materialize/chips.self-9b19ca899ba360746581059852bf2a40b3338402eef9df9a7806efd8578056dd.js?body=1" for ::1 at 2017-03-10 10:13:05 -0500
+
+
+Started GET "/assets/materialize/slider.self-8052f7188f9e8ab3d03b246d4942a4824edb9614d0d130051d11ba1354c9c798.js?body=1" for ::1 at 2017-03-10 10:13:05 -0500
+
+
+Started GET "/assets/materialize/pushpin.self-3e487290a48f23142c992c158b45cbd0be9c83de7c23abbb33b195954d1883cd.js?body=1" for ::1 at 2017-03-10 10:13:05 -0500
+
+
+Started GET "/assets/materialize/buttons.self-fc0951c300b1984a00694eabc8c451531be448d646ac073b05e4d2fbf7209302.js?body=1" for ::1 at 2017-03-10 10:13:05 -0500
+
+
+Started GET "/assets/materialize/transitions.self-c527b205edfdd1f961487c4c7beaf83c335262accb4dff964341a86eb60fd2f2.js?body=1" for ::1 at 2017-03-10 10:13:05 -0500
+
+
+Started GET "/assets/materialize/scrollFire.self-d38b34eac05d33baa79181ef5ba72c67b7f73714ff11cda22495d30f4469298f.js?body=1" for ::1 at 2017-03-10 10:13:05 -0500
+
+
+Started GET "/assets/materialize/date_picker/picker.self-f7869dc9881d3874917e009ea6e30d68817b1bd1247665fb653e0f87393fb60f.js?body=1" for ::1 at 2017-03-10 10:13:05 -0500
+
+
+Started GET "/assets/materialize/date_picker/picker.date.self-5924b278beda2df8570f137f72b37e2d0f516acbc11a0994d1abb74380f078ef.js?body=1" for ::1 at 2017-03-10 10:13:05 -0500
+
+
+Started GET "/assets/materialize/character_counter.self-f3a78940ad5b851c1b7b79d86a5d5d9bdf0dc15e0e58e2a58b3eb57d845fbd37.js?body=1" for ::1 at 2017-03-10 10:13:05 -0500
+
+
+Started GET "/assets/materialize-sprockets.self-4691589913babdfbd3fb736895105a8e826d4abde842e6d1e8dd2d188e255bc7.js?body=1" for ::1 at 2017-03-10 10:13:05 -0500
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2017-03-10 10:13:05 -0500
+
+
+Started GET "/assets/smoothscroll.self-db493ba7f514800870cb77c14d3b00abb4597b3945c9825eb94cc01df999c182.js?body=1" for ::1 at 2017-03-10 10:13:05 -0500
+
+
+Started GET "/assets/materialize/carousel.self-6f3b9002af3ab4d871a03a44d2e174370720ab31f19a4ee543c1904c32e2befa.js?body=1" for ::1 at 2017-03-10 10:13:05 -0500
+
+
+Started GET "/assets/application.self-412fefcfba484978a2981bf48c8b20162a50a684bc66f39711eaf9d64aa9cf4a.js?body=1" for ::1 at 2017-03-10 10:13:05 -0500
+
+
+Started GET "/assets/logo-cf9a73eaec651b8e10db8219a8a7fcd073a78d6a2a7e9e14ca08154e8d368554.png" for ::1 at 2017-03-10 10:13:05 -0500
+
+
+Started GET "/assets/roboto/Roboto-Regular-b5c9c23bd12593523a46d79dd0aee80e3226bbde4c9ac05fc30a95e2c1510de0.woff2" for ::1 at 2017-03-10 10:13:05 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:13:31 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (361.8ms)
+Completed 200 OK in 684ms (Views: 671.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/landing-6bf6d1f25402a66281797c602c1601b97a7691d47547136e327560ba06371016.jpg" for ::1 at 2017-03-10 10:13:32 -0500
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:13:32 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:15:57 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (399.7ms)
+Completed 200 OK in 756ms (Views: 742.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/materialize/jquery.easing.1.3.self-0170bc905fbddc075a56bdccce1be6a58f3713a14137b607ba9bd9f96fd7835f.js?body=1" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/materialize/initial.self-5fc251c38da473321319aa59154bbaf8d6a0e5dd635dcb3e4de6f70af7ef6f5c.js?body=1" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/materialize/animation.self-a1028b0bcf2e26331bedf7b90e81103f0707e69fdec488aa951de94b51987767.js?body=1" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/materialize/hammer.min.self-bf8bdb0953b1a135f96716e362e1f7a8e64168c914fa77ca31973bb70e57a731.js?body=1" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/materialize/velocity.min.self-5adbb81af5c205a959e06198156b4b31fcd57f02c592e3fb096d7b74e8f401a6.js?body=1" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/materialize/jquery.hammer.self-73fd69102f356b9abfc9ee242b19895f62454f42cfcfa1f066be71d2c8f41c7a.js?body=1" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/materialize/global.self-90649deff3358499c5859330da1363eea3e2bef75c80df5940f3894778f95027.js?body=1" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/materialize/collapsible.self-28e651bb34f045977f525ed2f35a22955e549b9e783851dba0b75b480c75abb2.js?body=1" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/materialize/dropdown.self-a1ff4400a417f25698cc5cc70e36e273953beaf52226d09b3795ce3edc473a66.js?body=1" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/materialize/leanModal.self-4db1374f875e0a1a2ba3389d23cae8f6f0c2672e7e69aeab7645ed51d26e6915.js?body=1" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/materialize/materialbox.self-6c6b2ba48598681c90551b540338699c75cf2f9ada34cc4b22570c217b9292d8.js?body=1" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/materialize/parallax.self-7ac34f0f3dcef83deee116ea473a2770cec13e07c8e0dcce08cc2372bbe295d3.js?body=1" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/materialize/tabs.self-922f8a5ef8f7381c945259a9f1dcaf6d628630cda8fcbbfe182ea653091b165c.js?body=1" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/materialize/tooltip.self-df3538fd067523c8b7f4d50e060340ec0b551ebaba9733e157c404df9a96a185.js?body=1" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/materialize/waves.self-26e9b9cfaa9ccbc292ed510f654bd279d69695f5337a14c9800b36e92f96735b.js?body=1" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/materialize/toasts.self-1eaa9f33c4c3b83f381997876ba6ac53899a5ca72a6b401708c32625fc553adc.js?body=1" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/materialize/sideNav.self-d1aa0f50b6f5d0d9a7086344d806fc133274dd021e58f837cbe39e309012045b.js?body=1" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/materialize/scrollspy.self-9bd8d701ac90c813a0d051ab4943150bdb536d863646d8b349c42a88edb31cf8.js?body=1" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/materialize/forms.self-95e85e335577e28202a4b4034a754320f866221010ed4a0be2cbf6af0dd79f1d.js?body=1" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/materialize/slider.self-8052f7188f9e8ab3d03b246d4942a4824edb9614d0d130051d11ba1354c9c798.js?body=1" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/materialize/chips.self-9b19ca899ba360746581059852bf2a40b3338402eef9df9a7806efd8578056dd.js?body=1" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/materialize/pushpin.self-3e487290a48f23142c992c158b45cbd0be9c83de7c23abbb33b195954d1883cd.js?body=1" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/materialize/buttons.self-fc0951c300b1984a00694eabc8c451531be448d646ac073b05e4d2fbf7209302.js?body=1" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/materialize/transitions.self-c527b205edfdd1f961487c4c7beaf83c335262accb4dff964341a86eb60fd2f2.js?body=1" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/materialize/scrollFire.self-d38b34eac05d33baa79181ef5ba72c67b7f73714ff11cda22495d30f4469298f.js?body=1" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/materialize/date_picker/picker.date.self-5924b278beda2df8570f137f72b37e2d0f516acbc11a0994d1abb74380f078ef.js?body=1" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/materialize/character_counter.self-f3a78940ad5b851c1b7b79d86a5d5d9bdf0dc15e0e58e2a58b3eb57d845fbd37.js?body=1" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/materialize/date_picker/picker.self-f7869dc9881d3874917e009ea6e30d68817b1bd1247665fb653e0f87393fb60f.js?body=1" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/materialize/carousel.self-6f3b9002af3ab4d871a03a44d2e174370720ab31f19a4ee543c1904c32e2befa.js?body=1" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/materialize-sprockets.self-4691589913babdfbd3fb736895105a8e826d4abde842e6d1e8dd2d188e255bc7.js?body=1" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/smoothscroll.self-db493ba7f514800870cb77c14d3b00abb4597b3945c9825eb94cc01df999c182.js?body=1" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/application.self-412fefcfba484978a2981bf48c8b20162a50a684bc66f39711eaf9d64aa9cf4a.js?body=1" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/materialize/cards.self-b1de04b6f5f525d63199f556bb55d5b8bdae7170b91bfcb503958bc8ed10945b.js?body=1" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/logo-cf9a73eaec651b8e10db8219a8a7fcd073a78d6a2a7e9e14ca08154e8d368554.png" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/landing-a14c3f2fb31bb4a12680d9effcbdbe16dfebca0c1ecfc80459c1fa1dcbf94183.jpg" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/assets/roboto/Roboto-Regular-b5c9c23bd12593523a46d79dd0aee80e3226bbde4c9ac05fc30a95e2c1510de0.woff2" for ::1 at 2017-03-10 10:15:58 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:19:27 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 614ms (Views: 601.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2017-03-10 10:19:28 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2017-03-10 10:19:28 -0500
+
+
+Started GET "/assets/materialize/initial.self-5fc251c38da473321319aa59154bbaf8d6a0e5dd635dcb3e4de6f70af7ef6f5c.js?body=1" for ::1 at 2017-03-10 10:19:28 -0500
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:19:28 -0500
+
+
+Started GET "/assets/materialize/animation.self-a1028b0bcf2e26331bedf7b90e81103f0707e69fdec488aa951de94b51987767.js?body=1" for ::1 at 2017-03-10 10:19:28 -0500
+
+
+Started GET "/assets/materialize/jquery.easing.1.3.self-0170bc905fbddc075a56bdccce1be6a58f3713a14137b607ba9bd9f96fd7835f.js?body=1" for ::1 at 2017-03-10 10:19:28 -0500
+
+
+Started GET "/assets/materialize/velocity.min.self-5adbb81af5c205a959e06198156b4b31fcd57f02c592e3fb096d7b74e8f401a6.js?body=1" for ::1 at 2017-03-10 10:19:28 -0500
+
+
+Started GET "/assets/materialize/hammer.min.self-bf8bdb0953b1a135f96716e362e1f7a8e64168c914fa77ca31973bb70e57a731.js?body=1" for ::1 at 2017-03-10 10:19:29 -0500
+
+
+Started GET "/assets/materialize/jquery.hammer.self-73fd69102f356b9abfc9ee242b19895f62454f42cfcfa1f066be71d2c8f41c7a.js?body=1" for ::1 at 2017-03-10 10:19:29 -0500
+
+
+Started GET "/assets/materialize/global.self-90649deff3358499c5859330da1363eea3e2bef75c80df5940f3894778f95027.js?body=1" for ::1 at 2017-03-10 10:19:29 -0500
+
+
+Started GET "/assets/materialize/collapsible.self-28e651bb34f045977f525ed2f35a22955e549b9e783851dba0b75b480c75abb2.js?body=1" for ::1 at 2017-03-10 10:19:29 -0500
+
+
+Started GET "/assets/materialize/dropdown.self-a1ff4400a417f25698cc5cc70e36e273953beaf52226d09b3795ce3edc473a66.js?body=1" for ::1 at 2017-03-10 10:19:29 -0500
+
+
+Started GET "/assets/materialize/leanModal.self-4db1374f875e0a1a2ba3389d23cae8f6f0c2672e7e69aeab7645ed51d26e6915.js?body=1" for ::1 at 2017-03-10 10:19:29 -0500
+
+
+Started GET "/assets/materialize/materialbox.self-6c6b2ba48598681c90551b540338699c75cf2f9ada34cc4b22570c217b9292d8.js?body=1" for ::1 at 2017-03-10 10:19:29 -0500
+
+
+Started GET "/assets/materialize/parallax.self-7ac34f0f3dcef83deee116ea473a2770cec13e07c8e0dcce08cc2372bbe295d3.js?body=1" for ::1 at 2017-03-10 10:19:29 -0500
+
+
+Started GET "/assets/materialize/tooltip.self-df3538fd067523c8b7f4d50e060340ec0b551ebaba9733e157c404df9a96a185.js?body=1" for ::1 at 2017-03-10 10:19:29 -0500
+
+
+Started GET "/assets/materialize/waves.self-26e9b9cfaa9ccbc292ed510f654bd279d69695f5337a14c9800b36e92f96735b.js?body=1" for ::1 at 2017-03-10 10:19:29 -0500
+
+
+Started GET "/assets/materialize/tabs.self-922f8a5ef8f7381c945259a9f1dcaf6d628630cda8fcbbfe182ea653091b165c.js?body=1" for ::1 at 2017-03-10 10:19:29 -0500
+
+
+Started GET "/assets/materialize/toasts.self-1eaa9f33c4c3b83f381997876ba6ac53899a5ca72a6b401708c32625fc553adc.js?body=1" for ::1 at 2017-03-10 10:19:29 -0500
+
+
+Started GET "/assets/materialize/sideNav.self-d1aa0f50b6f5d0d9a7086344d806fc133274dd021e58f837cbe39e309012045b.js?body=1" for ::1 at 2017-03-10 10:19:29 -0500
+
+
+Started GET "/assets/materialize/scrollspy.self-9bd8d701ac90c813a0d051ab4943150bdb536d863646d8b349c42a88edb31cf8.js?body=1" for ::1 at 2017-03-10 10:19:29 -0500
+
+
+Started GET "/assets/materialize/forms.self-95e85e335577e28202a4b4034a754320f866221010ed4a0be2cbf6af0dd79f1d.js?body=1" for ::1 at 2017-03-10 10:19:29 -0500
+
+
+Started GET "/assets/materialize/slider.self-8052f7188f9e8ab3d03b246d4942a4824edb9614d0d130051d11ba1354c9c798.js?body=1" for ::1 at 2017-03-10 10:19:29 -0500
+
+
+Started GET "/assets/materialize/chips.self-9b19ca899ba360746581059852bf2a40b3338402eef9df9a7806efd8578056dd.js?body=1" for ::1 at 2017-03-10 10:19:29 -0500
+
+
+Started GET "/assets/materialize/pushpin.self-3e487290a48f23142c992c158b45cbd0be9c83de7c23abbb33b195954d1883cd.js?body=1" for ::1 at 2017-03-10 10:19:29 -0500
+
+
+Started GET "/assets/materialize/cards.self-b1de04b6f5f525d63199f556bb55d5b8bdae7170b91bfcb503958bc8ed10945b.js?body=1" for ::1 at 2017-03-10 10:19:29 -0500
+
+
+Started GET "/assets/materialize/buttons.self-fc0951c300b1984a00694eabc8c451531be448d646ac073b05e4d2fbf7209302.js?body=1" for ::1 at 2017-03-10 10:19:29 -0500
+
+
+Started GET "/assets/materialize/transitions.self-c527b205edfdd1f961487c4c7beaf83c335262accb4dff964341a86eb60fd2f2.js?body=1" for ::1 at 2017-03-10 10:19:29 -0500
+
+
+Started GET "/assets/materialize/date_picker/picker.self-f7869dc9881d3874917e009ea6e30d68817b1bd1247665fb653e0f87393fb60f.js?body=1" for ::1 at 2017-03-10 10:19:29 -0500
+
+
+Started GET "/assets/materialize/date_picker/picker.date.self-5924b278beda2df8570f137f72b37e2d0f516acbc11a0994d1abb74380f078ef.js?body=1" for ::1 at 2017-03-10 10:19:29 -0500
+
+
+Started GET "/assets/materialize/carousel.self-6f3b9002af3ab4d871a03a44d2e174370720ab31f19a4ee543c1904c32e2befa.js?body=1" for ::1 at 2017-03-10 10:19:29 -0500
+
+
+Started GET "/assets/materialize/scrollFire.self-d38b34eac05d33baa79181ef5ba72c67b7f73714ff11cda22495d30f4469298f.js?body=1" for ::1 at 2017-03-10 10:19:29 -0500
+
+
+Started GET "/assets/materialize/character_counter.self-f3a78940ad5b851c1b7b79d86a5d5d9bdf0dc15e0e58e2a58b3eb57d845fbd37.js?body=1" for ::1 at 2017-03-10 10:19:29 -0500
+
+
+Started GET "/assets/materialize-sprockets.self-4691589913babdfbd3fb736895105a8e826d4abde842e6d1e8dd2d188e255bc7.js?body=1" for ::1 at 2017-03-10 10:19:29 -0500
+
+
+Started GET "/assets/smoothscroll.self-db493ba7f514800870cb77c14d3b00abb4597b3945c9825eb94cc01df999c182.js?body=1" for ::1 at 2017-03-10 10:19:29 -0500
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2017-03-10 10:19:29 -0500
+
+
+Started GET "/assets/application.self-412fefcfba484978a2981bf48c8b20162a50a684bc66f39711eaf9d64aa9cf4a.js?body=1" for ::1 at 2017-03-10 10:19:29 -0500
+
+
+Started GET "/assets/logo-cf9a73eaec651b8e10db8219a8a7fcd073a78d6a2a7e9e14ca08154e8d368554.png" for ::1 at 2017-03-10 10:19:29 -0500
+
+
+Started GET "/assets/roboto/Roboto-Regular-b5c9c23bd12593523a46d79dd0aee80e3226bbde4c9ac05fc30a95e2c1510de0.woff2" for ::1 at 2017-03-10 10:19:29 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:20:03 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 625ms (Views: 612.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:20:04 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:21:56 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (352.4ms)
+Completed 200 OK in 639ms (Views: 627.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2017-03-10 10:21:57 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2017-03-10 10:21:57 -0500
+
+
+Started GET "/assets/materialize/initial.self-5fc251c38da473321319aa59154bbaf8d6a0e5dd635dcb3e4de6f70af7ef6f5c.js?body=1" for ::1 at 2017-03-10 10:21:57 -0500
+
+
+Started GET "/assets/materialize/velocity.min.self-5adbb81af5c205a959e06198156b4b31fcd57f02c592e3fb096d7b74e8f401a6.js?body=1" for ::1 at 2017-03-10 10:21:57 -0500
+
+
+Started GET "/assets/materialize/jquery.easing.1.3.self-0170bc905fbddc075a56bdccce1be6a58f3713a14137b607ba9bd9f96fd7835f.js?body=1" for ::1 at 2017-03-10 10:21:57 -0500
+
+
+Started GET "/assets/materialize/animation.self-a1028b0bcf2e26331bedf7b90e81103f0707e69fdec488aa951de94b51987767.js?body=1" for ::1 at 2017-03-10 10:21:57 -0500
+
+
+Started GET "/assets/materialize/hammer.min.self-bf8bdb0953b1a135f96716e362e1f7a8e64168c914fa77ca31973bb70e57a731.js?body=1" for ::1 at 2017-03-10 10:21:57 -0500
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:21:57 -0500
+
+
+Started GET "/assets/materialize/jquery.hammer.self-73fd69102f356b9abfc9ee242b19895f62454f42cfcfa1f066be71d2c8f41c7a.js?body=1" for ::1 at 2017-03-10 10:21:57 -0500
+
+
+Started GET "/assets/materialize/global.self-90649deff3358499c5859330da1363eea3e2bef75c80df5940f3894778f95027.js?body=1" for ::1 at 2017-03-10 10:21:57 -0500
+
+
+Started GET "/assets/materialize/dropdown.self-a1ff4400a417f25698cc5cc70e36e273953beaf52226d09b3795ce3edc473a66.js?body=1" for ::1 at 2017-03-10 10:21:57 -0500
+
+
+Started GET "/assets/materialize/collapsible.self-28e651bb34f045977f525ed2f35a22955e549b9e783851dba0b75b480c75abb2.js?body=1" for ::1 at 2017-03-10 10:21:57 -0500
+
+
+Started GET "/assets/materialize/leanModal.self-4db1374f875e0a1a2ba3389d23cae8f6f0c2672e7e69aeab7645ed51d26e6915.js?body=1" for ::1 at 2017-03-10 10:21:57 -0500
+
+
+Started GET "/assets/materialize/materialbox.self-6c6b2ba48598681c90551b540338699c75cf2f9ada34cc4b22570c217b9292d8.js?body=1" for ::1 at 2017-03-10 10:21:57 -0500
+
+
+Started GET "/assets/materialize/parallax.self-7ac34f0f3dcef83deee116ea473a2770cec13e07c8e0dcce08cc2372bbe295d3.js?body=1" for ::1 at 2017-03-10 10:21:57 -0500
+
+
+Started GET "/assets/materialize/tooltip.self-df3538fd067523c8b7f4d50e060340ec0b551ebaba9733e157c404df9a96a185.js?body=1" for ::1 at 2017-03-10 10:21:57 -0500
+
+
+Started GET "/assets/materialize/tabs.self-922f8a5ef8f7381c945259a9f1dcaf6d628630cda8fcbbfe182ea653091b165c.js?body=1" for ::1 at 2017-03-10 10:21:57 -0500
+
+
+Started GET "/assets/materialize/waves.self-26e9b9cfaa9ccbc292ed510f654bd279d69695f5337a14c9800b36e92f96735b.js?body=1" for ::1 at 2017-03-10 10:21:57 -0500
+
+
+Started GET "/assets/materialize/toasts.self-1eaa9f33c4c3b83f381997876ba6ac53899a5ca72a6b401708c32625fc553adc.js?body=1" for ::1 at 2017-03-10 10:21:57 -0500
+
+
+Started GET "/assets/materialize/sideNav.self-d1aa0f50b6f5d0d9a7086344d806fc133274dd021e58f837cbe39e309012045b.js?body=1" for ::1 at 2017-03-10 10:21:57 -0500
+
+
+Started GET "/assets/materialize/scrollspy.self-9bd8d701ac90c813a0d051ab4943150bdb536d863646d8b349c42a88edb31cf8.js?body=1" for ::1 at 2017-03-10 10:21:58 -0500
+
+
+Started GET "/assets/materialize/forms.self-95e85e335577e28202a4b4034a754320f866221010ed4a0be2cbf6af0dd79f1d.js?body=1" for ::1 at 2017-03-10 10:21:58 -0500
+
+
+Started GET "/assets/materialize/slider.self-8052f7188f9e8ab3d03b246d4942a4824edb9614d0d130051d11ba1354c9c798.js?body=1" for ::1 at 2017-03-10 10:21:58 -0500
+
+
+Started GET "/assets/materialize/chips.self-9b19ca899ba360746581059852bf2a40b3338402eef9df9a7806efd8578056dd.js?body=1" for ::1 at 2017-03-10 10:21:58 -0500
+
+
+Started GET "/assets/materialize/cards.self-b1de04b6f5f525d63199f556bb55d5b8bdae7170b91bfcb503958bc8ed10945b.js?body=1" for ::1 at 2017-03-10 10:21:58 -0500
+
+
+Started GET "/assets/materialize/pushpin.self-3e487290a48f23142c992c158b45cbd0be9c83de7c23abbb33b195954d1883cd.js?body=1" for ::1 at 2017-03-10 10:21:58 -0500
+
+
+Started GET "/assets/materialize/buttons.self-fc0951c300b1984a00694eabc8c451531be448d646ac073b05e4d2fbf7209302.js?body=1" for ::1 at 2017-03-10 10:21:58 -0500
+
+
+Started GET "/assets/materialize/scrollFire.self-d38b34eac05d33baa79181ef5ba72c67b7f73714ff11cda22495d30f4469298f.js?body=1" for ::1 at 2017-03-10 10:21:58 -0500
+
+
+Started GET "/assets/materialize/transitions.self-c527b205edfdd1f961487c4c7beaf83c335262accb4dff964341a86eb60fd2f2.js?body=1" for ::1 at 2017-03-10 10:21:58 -0500
+
+
+Started GET "/assets/materialize/date_picker/picker.self-f7869dc9881d3874917e009ea6e30d68817b1bd1247665fb653e0f87393fb60f.js?body=1" for ::1 at 2017-03-10 10:21:58 -0500
+
+
+Started GET "/assets/materialize/character_counter.self-f3a78940ad5b851c1b7b79d86a5d5d9bdf0dc15e0e58e2a58b3eb57d845fbd37.js?body=1" for ::1 at 2017-03-10 10:21:58 -0500
+
+
+Started GET "/assets/materialize/date_picker/picker.date.self-5924b278beda2df8570f137f72b37e2d0f516acbc11a0994d1abb74380f078ef.js?body=1" for ::1 at 2017-03-10 10:21:58 -0500
+
+
+Started GET "/assets/materialize/carousel.self-6f3b9002af3ab4d871a03a44d2e174370720ab31f19a4ee543c1904c32e2befa.js?body=1" for ::1 at 2017-03-10 10:21:58 -0500
+
+
+Started GET "/assets/materialize-sprockets.self-4691589913babdfbd3fb736895105a8e826d4abde842e6d1e8dd2d188e255bc7.js?body=1" for ::1 at 2017-03-10 10:21:58 -0500
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2017-03-10 10:21:58 -0500
+
+
+Started GET "/assets/smoothscroll.self-db493ba7f514800870cb77c14d3b00abb4597b3945c9825eb94cc01df999c182.js?body=1" for ::1 at 2017-03-10 10:21:58 -0500
+
+
+Started GET "/assets/application.self-412fefcfba484978a2981bf48c8b20162a50a684bc66f39711eaf9d64aa9cf4a.js?body=1" for ::1 at 2017-03-10 10:21:58 -0500
+
+
+Started GET "/assets/logo-cf9a73eaec651b8e10db8219a8a7fcd073a78d6a2a7e9e14ca08154e8d368554.png" for ::1 at 2017-03-10 10:21:58 -0500
+
+
+Started GET "/assets/roboto/Roboto-Regular-b5c9c23bd12593523a46d79dd0aee80e3226bbde4c9ac05fc30a95e2c1510de0.woff2" for ::1 at 2017-03-10 10:21:58 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:22:16 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (338.8ms)
+Completed 200 OK in 611ms (Views: 599.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/landing-a14c3f2fb31bb4a12680d9effcbdbe16dfebca0c1ecfc80459c1fa1dcbf94183.jpg" for ::1 at 2017-03-10 10:22:17 -0500
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:22:17 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:23:04 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (346.3ms)
+Completed 200 OK in 654ms (Views: 642.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:23:05 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:24:34 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (364.4ms)
+Completed 200 OK in 639ms (Views: 626.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:24:35 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:25:57 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (337.2ms)
+Completed 200 OK in 614ms (Views: 601.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:25:58 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:27:05 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (351.7ms)
+Completed 200 OK in 635ms (Views: 622.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:27:06 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:27:24 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (298.2ms)
+Completed 200 OK in 554ms (Views: 541.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:27:25 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:30:09 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (389.0ms)
+Completed 200 OK in 692ms (Views: 679.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:30:10 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:30:45 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (319.1ms)
+Completed 200 OK in 584ms (Views: 563.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/materialize/initial.self-5fc251c38da473321319aa59154bbaf8d6a0e5dd635dcb3e4de6f70af7ef6f5c.js?body=1" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/materialize/animation.self-a1028b0bcf2e26331bedf7b90e81103f0707e69fdec488aa951de94b51987767.js?body=1" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/materialize/jquery.easing.1.3.self-0170bc905fbddc075a56bdccce1be6a58f3713a14137b607ba9bd9f96fd7835f.js?body=1" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/materialize/velocity.min.self-5adbb81af5c205a959e06198156b4b31fcd57f02c592e3fb096d7b74e8f401a6.js?body=1" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/materialize/jquery.hammer.self-73fd69102f356b9abfc9ee242b19895f62454f42cfcfa1f066be71d2c8f41c7a.js?body=1" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/materialize/hammer.min.self-bf8bdb0953b1a135f96716e362e1f7a8e64168c914fa77ca31973bb70e57a731.js?body=1" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/materialize/global.self-90649deff3358499c5859330da1363eea3e2bef75c80df5940f3894778f95027.js?body=1" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/materialize/collapsible.self-28e651bb34f045977f525ed2f35a22955e549b9e783851dba0b75b480c75abb2.js?body=1" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/materialize/dropdown.self-a1ff4400a417f25698cc5cc70e36e273953beaf52226d09b3795ce3edc473a66.js?body=1" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/materialize/leanModal.self-4db1374f875e0a1a2ba3389d23cae8f6f0c2672e7e69aeab7645ed51d26e6915.js?body=1" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/materialize/materialbox.self-6c6b2ba48598681c90551b540338699c75cf2f9ada34cc4b22570c217b9292d8.js?body=1" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/materialize/parallax.self-7ac34f0f3dcef83deee116ea473a2770cec13e07c8e0dcce08cc2372bbe295d3.js?body=1" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/materialize/tabs.self-922f8a5ef8f7381c945259a9f1dcaf6d628630cda8fcbbfe182ea653091b165c.js?body=1" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/materialize/tooltip.self-df3538fd067523c8b7f4d50e060340ec0b551ebaba9733e157c404df9a96a185.js?body=1" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/materialize/waves.self-26e9b9cfaa9ccbc292ed510f654bd279d69695f5337a14c9800b36e92f96735b.js?body=1" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/materialize/toasts.self-1eaa9f33c4c3b83f381997876ba6ac53899a5ca72a6b401708c32625fc553adc.js?body=1" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/materialize/sideNav.self-d1aa0f50b6f5d0d9a7086344d806fc133274dd021e58f837cbe39e309012045b.js?body=1" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/materialize/scrollspy.self-9bd8d701ac90c813a0d051ab4943150bdb536d863646d8b349c42a88edb31cf8.js?body=1" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/materialize/forms.self-95e85e335577e28202a4b4034a754320f866221010ed4a0be2cbf6af0dd79f1d.js?body=1" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/materialize/slider.self-8052f7188f9e8ab3d03b246d4942a4824edb9614d0d130051d11ba1354c9c798.js?body=1" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/materialize/chips.self-9b19ca899ba360746581059852bf2a40b3338402eef9df9a7806efd8578056dd.js?body=1" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/materialize/pushpin.self-3e487290a48f23142c992c158b45cbd0be9c83de7c23abbb33b195954d1883cd.js?body=1" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/materialize/buttons.self-fc0951c300b1984a00694eabc8c451531be448d646ac073b05e4d2fbf7209302.js?body=1" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/materialize/transitions.self-c527b205edfdd1f961487c4c7beaf83c335262accb4dff964341a86eb60fd2f2.js?body=1" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/materialize/scrollFire.self-d38b34eac05d33baa79181ef5ba72c67b7f73714ff11cda22495d30f4469298f.js?body=1" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/materialize/date_picker/picker.self-f7869dc9881d3874917e009ea6e30d68817b1bd1247665fb653e0f87393fb60f.js?body=1" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/materialize/date_picker/picker.date.self-5924b278beda2df8570f137f72b37e2d0f516acbc11a0994d1abb74380f078ef.js?body=1" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/materialize/character_counter.self-f3a78940ad5b851c1b7b79d86a5d5d9bdf0dc15e0e58e2a58b3eb57d845fbd37.js?body=1" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/materialize/carousel.self-6f3b9002af3ab4d871a03a44d2e174370720ab31f19a4ee543c1904c32e2befa.js?body=1" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/materialize-sprockets.self-4691589913babdfbd3fb736895105a8e826d4abde842e6d1e8dd2d188e255bc7.js?body=1" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/smoothscroll.self-db493ba7f514800870cb77c14d3b00abb4597b3945c9825eb94cc01df999c182.js?body=1" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/application.self-412fefcfba484978a2981bf48c8b20162a50a684bc66f39711eaf9d64aa9cf4a.js?body=1" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/materialize/cards.self-b1de04b6f5f525d63199f556bb55d5b8bdae7170b91bfcb503958bc8ed10945b.js?body=1" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/logo-cf9a73eaec651b8e10db8219a8a7fcd073a78d6a2a7e9e14ca08154e8d368554.png" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/landing-a14c3f2fb31bb4a12680d9effcbdbe16dfebca0c1ecfc80459c1fa1dcbf94183.jpg" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/assets/roboto/Roboto-Regular-b5c9c23bd12593523a46d79dd0aee80e3226bbde4c9ac05fc30a95e2c1510de0.woff2" for ::1 at 2017-03-10 10:30:46 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:31:42 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (321.7ms)
+Completed 200 OK in 568ms (Views: 555.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:31:43 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:32:12 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (302.0ms)
+Completed 200 OK in 560ms (Views: 548.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:32:12 -0500
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/assets/materialize/jquery.easing.1.3.self-0170bc905fbddc075a56bdccce1be6a58f3713a14137b607ba9bd9f96fd7835f.js?body=1" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/assets/materialize/animation.self-a1028b0bcf2e26331bedf7b90e81103f0707e69fdec488aa951de94b51987767.js?body=1" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/assets/materialize/initial.self-5fc251c38da473321319aa59154bbaf8d6a0e5dd635dcb3e4de6f70af7ef6f5c.js?body=1" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/assets/materialize/velocity.min.self-5adbb81af5c205a959e06198156b4b31fcd57f02c592e3fb096d7b74e8f401a6.js?body=1" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/assets/materialize/jquery.hammer.self-73fd69102f356b9abfc9ee242b19895f62454f42cfcfa1f066be71d2c8f41c7a.js?body=1" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/assets/materialize/global.self-90649deff3358499c5859330da1363eea3e2bef75c80df5940f3894778f95027.js?body=1" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/assets/materialize/collapsible.self-28e651bb34f045977f525ed2f35a22955e549b9e783851dba0b75b480c75abb2.js?body=1" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/assets/materialize/hammer.min.self-bf8bdb0953b1a135f96716e362e1f7a8e64168c914fa77ca31973bb70e57a731.js?body=1" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/assets/materialize/dropdown.self-a1ff4400a417f25698cc5cc70e36e273953beaf52226d09b3795ce3edc473a66.js?body=1" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/assets/materialize/leanModal.self-4db1374f875e0a1a2ba3389d23cae8f6f0c2672e7e69aeab7645ed51d26e6915.js?body=1" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/assets/materialize/parallax.self-7ac34f0f3dcef83deee116ea473a2770cec13e07c8e0dcce08cc2372bbe295d3.js?body=1" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/assets/materialize/materialbox.self-6c6b2ba48598681c90551b540338699c75cf2f9ada34cc4b22570c217b9292d8.js?body=1" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/assets/materialize/tabs.self-922f8a5ef8f7381c945259a9f1dcaf6d628630cda8fcbbfe182ea653091b165c.js?body=1" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/assets/materialize/tooltip.self-df3538fd067523c8b7f4d50e060340ec0b551ebaba9733e157c404df9a96a185.js?body=1" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/assets/materialize/waves.self-26e9b9cfaa9ccbc292ed510f654bd279d69695f5337a14c9800b36e92f96735b.js?body=1" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/assets/materialize/toasts.self-1eaa9f33c4c3b83f381997876ba6ac53899a5ca72a6b401708c32625fc553adc.js?body=1" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/assets/materialize/sideNav.self-d1aa0f50b6f5d0d9a7086344d806fc133274dd021e58f837cbe39e309012045b.js?body=1" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/assets/materialize/scrollspy.self-9bd8d701ac90c813a0d051ab4943150bdb536d863646d8b349c42a88edb31cf8.js?body=1" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/assets/materialize/slider.self-8052f7188f9e8ab3d03b246d4942a4824edb9614d0d130051d11ba1354c9c798.js?body=1" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/assets/materialize/cards.self-b1de04b6f5f525d63199f556bb55d5b8bdae7170b91bfcb503958bc8ed10945b.js?body=1" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/assets/materialize/forms.self-95e85e335577e28202a4b4034a754320f866221010ed4a0be2cbf6af0dd79f1d.js?body=1" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/assets/materialize/chips.self-9b19ca899ba360746581059852bf2a40b3338402eef9df9a7806efd8578056dd.js?body=1" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/assets/materialize/pushpin.self-3e487290a48f23142c992c158b45cbd0be9c83de7c23abbb33b195954d1883cd.js?body=1" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/assets/materialize/buttons.self-fc0951c300b1984a00694eabc8c451531be448d646ac073b05e4d2fbf7209302.js?body=1" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/assets/materialize/transitions.self-c527b205edfdd1f961487c4c7beaf83c335262accb4dff964341a86eb60fd2f2.js?body=1" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/assets/materialize/scrollFire.self-d38b34eac05d33baa79181ef5ba72c67b7f73714ff11cda22495d30f4469298f.js?body=1" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/assets/materialize/date_picker/picker.self-f7869dc9881d3874917e009ea6e30d68817b1bd1247665fb653e0f87393fb60f.js?body=1" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/assets/materialize/date_picker/picker.date.self-5924b278beda2df8570f137f72b37e2d0f516acbc11a0994d1abb74380f078ef.js?body=1" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/assets/materialize/character_counter.self-f3a78940ad5b851c1b7b79d86a5d5d9bdf0dc15e0e58e2a58b3eb57d845fbd37.js?body=1" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/assets/materialize/carousel.self-6f3b9002af3ab4d871a03a44d2e174370720ab31f19a4ee543c1904c32e2befa.js?body=1" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/assets/materialize-sprockets.self-4691589913babdfbd3fb736895105a8e826d4abde842e6d1e8dd2d188e255bc7.js?body=1" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/assets/application.self-412fefcfba484978a2981bf48c8b20162a50a684bc66f39711eaf9d64aa9cf4a.js?body=1" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/assets/smoothscroll.self-db493ba7f514800870cb77c14d3b00abb4597b3945c9825eb94cc01df999c182.js?body=1" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/assets/logo-cf9a73eaec651b8e10db8219a8a7fcd073a78d6a2a7e9e14ca08154e8d368554.png" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/assets/landing-a14c3f2fb31bb4a12680d9effcbdbe16dfebca0c1ecfc80459c1fa1dcbf94183.jpg" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/assets/roboto/Roboto-Regular-b5c9c23bd12593523a46d79dd0aee80e3226bbde4c9ac05fc30a95e2c1510de0.woff2" for ::1 at 2017-03-10 10:32:13 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:32:59 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (359.5ms)
+Completed 200 OK in 646ms (Views: 628.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:33:00 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:35:49 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (351.0ms)
+Completed 200 OK in 634ms (Views: 621.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/materialize/jquery.easing.1.3.self-0170bc905fbddc075a56bdccce1be6a58f3713a14137b607ba9bd9f96fd7835f.js?body=1" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/materialize/animation.self-a1028b0bcf2e26331bedf7b90e81103f0707e69fdec488aa951de94b51987767.js?body=1" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/materialize/initial.self-5fc251c38da473321319aa59154bbaf8d6a0e5dd635dcb3e4de6f70af7ef6f5c.js?body=1" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/materialize/hammer.min.self-bf8bdb0953b1a135f96716e362e1f7a8e64168c914fa77ca31973bb70e57a731.js?body=1" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/materialize/jquery.hammer.self-73fd69102f356b9abfc9ee242b19895f62454f42cfcfa1f066be71d2c8f41c7a.js?body=1" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/materialize/velocity.min.self-5adbb81af5c205a959e06198156b4b31fcd57f02c592e3fb096d7b74e8f401a6.js?body=1" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/materialize/global.self-90649deff3358499c5859330da1363eea3e2bef75c80df5940f3894778f95027.js?body=1" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/materialize/collapsible.self-28e651bb34f045977f525ed2f35a22955e549b9e783851dba0b75b480c75abb2.js?body=1" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/materialize/dropdown.self-a1ff4400a417f25698cc5cc70e36e273953beaf52226d09b3795ce3edc473a66.js?body=1" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/materialize/leanModal.self-4db1374f875e0a1a2ba3389d23cae8f6f0c2672e7e69aeab7645ed51d26e6915.js?body=1" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/materialize/materialbox.self-6c6b2ba48598681c90551b540338699c75cf2f9ada34cc4b22570c217b9292d8.js?body=1" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/materialize/parallax.self-7ac34f0f3dcef83deee116ea473a2770cec13e07c8e0dcce08cc2372bbe295d3.js?body=1" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/materialize/tabs.self-922f8a5ef8f7381c945259a9f1dcaf6d628630cda8fcbbfe182ea653091b165c.js?body=1" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/materialize/tooltip.self-df3538fd067523c8b7f4d50e060340ec0b551ebaba9733e157c404df9a96a185.js?body=1" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/materialize/toasts.self-1eaa9f33c4c3b83f381997876ba6ac53899a5ca72a6b401708c32625fc553adc.js?body=1" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/materialize/waves.self-26e9b9cfaa9ccbc292ed510f654bd279d69695f5337a14c9800b36e92f96735b.js?body=1" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/materialize/sideNav.self-d1aa0f50b6f5d0d9a7086344d806fc133274dd021e58f837cbe39e309012045b.js?body=1" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/materialize/scrollspy.self-9bd8d701ac90c813a0d051ab4943150bdb536d863646d8b349c42a88edb31cf8.js?body=1" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/materialize/forms.self-95e85e335577e28202a4b4034a754320f866221010ed4a0be2cbf6af0dd79f1d.js?body=1" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/materialize/slider.self-8052f7188f9e8ab3d03b246d4942a4824edb9614d0d130051d11ba1354c9c798.js?body=1" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/materialize/cards.self-b1de04b6f5f525d63199f556bb55d5b8bdae7170b91bfcb503958bc8ed10945b.js?body=1" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/materialize/pushpin.self-3e487290a48f23142c992c158b45cbd0be9c83de7c23abbb33b195954d1883cd.js?body=1" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/materialize/chips.self-9b19ca899ba360746581059852bf2a40b3338402eef9df9a7806efd8578056dd.js?body=1" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/materialize/buttons.self-fc0951c300b1984a00694eabc8c451531be448d646ac073b05e4d2fbf7209302.js?body=1" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/materialize/transitions.self-c527b205edfdd1f961487c4c7beaf83c335262accb4dff964341a86eb60fd2f2.js?body=1" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/materialize/date_picker/picker.self-f7869dc9881d3874917e009ea6e30d68817b1bd1247665fb653e0f87393fb60f.js?body=1" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/materialize/scrollFire.self-d38b34eac05d33baa79181ef5ba72c67b7f73714ff11cda22495d30f4469298f.js?body=1" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/materialize/character_counter.self-f3a78940ad5b851c1b7b79d86a5d5d9bdf0dc15e0e58e2a58b3eb57d845fbd37.js?body=1" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/materialize/date_picker/picker.date.self-5924b278beda2df8570f137f72b37e2d0f516acbc11a0994d1abb74380f078ef.js?body=1" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/materialize/carousel.self-6f3b9002af3ab4d871a03a44d2e174370720ab31f19a4ee543c1904c32e2befa.js?body=1" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/materialize-sprockets.self-4691589913babdfbd3fb736895105a8e826d4abde842e6d1e8dd2d188e255bc7.js?body=1" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/smoothscroll.self-db493ba7f514800870cb77c14d3b00abb4597b3945c9825eb94cc01df999c182.js?body=1" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/application.self-412fefcfba484978a2981bf48c8b20162a50a684bc66f39711eaf9d64aa9cf4a.js?body=1" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/logo-cf9a73eaec651b8e10db8219a8a7fcd073a78d6a2a7e9e14ca08154e8d368554.png" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/landing-a14c3f2fb31bb4a12680d9effcbdbe16dfebca0c1ecfc80459c1fa1dcbf94183.jpg" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/assets/roboto/Roboto-Regular-b5c9c23bd12593523a46d79dd0aee80e3226bbde4c9ac05fc30a95e2c1510de0.woff2" for ::1 at 2017-03-10 10:35:50 -0500
+
+
+Started GET "/?action=" for ::1 at 2017-03-10 10:35:54 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 133ms (Views: 132.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-10 10:36:36 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (353.8ms)
+Completed 200 OK in 678ms (Views: 664.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-10 10:36:37 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 149ms (Views: 147.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:36:37 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:38:55 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (343.2ms)
+Completed 200 OK in 611ms (Views: 597.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:38:56 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:41:35 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (347.0ms)
+Completed 200 OK in 621ms (Views: 608.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:41:36 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:44:21 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (349.9ms)
+Completed 200 OK in 626ms (Views: 612.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:44:22 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:44:47 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (348.5ms)
+Completed 200 OK in 636ms (Views: 623.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:44:48 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:45:07 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (303.2ms)
+Completed 200 OK in 579ms (Views: 567.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:45:08 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:45:55 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (339.5ms)
+Completed 200 OK in 615ms (Views: 602.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:45:56 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:49:07 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (490.9ms)
+Completed 200 OK in 851ms (Views: 837.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/materialize/initial.self-5fc251c38da473321319aa59154bbaf8d6a0e5dd635dcb3e4de6f70af7ef6f5c.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/materialize/jquery.easing.1.3.self-0170bc905fbddc075a56bdccce1be6a58f3713a14137b607ba9bd9f96fd7835f.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/materialize/animation.self-a1028b0bcf2e26331bedf7b90e81103f0707e69fdec488aa951de94b51987767.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/materialize/velocity.min.self-5adbb81af5c205a959e06198156b4b31fcd57f02c592e3fb096d7b74e8f401a6.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/materialize/hammer.min.self-bf8bdb0953b1a135f96716e362e1f7a8e64168c914fa77ca31973bb70e57a731.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/materialize/jquery.hammer.self-73fd69102f356b9abfc9ee242b19895f62454f42cfcfa1f066be71d2c8f41c7a.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/materialize/collapsible.self-28e651bb34f045977f525ed2f35a22955e549b9e783851dba0b75b480c75abb2.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/materialize/global.self-90649deff3358499c5859330da1363eea3e2bef75c80df5940f3894778f95027.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/materialize/dropdown.self-a1ff4400a417f25698cc5cc70e36e273953beaf52226d09b3795ce3edc473a66.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/materialize/leanModal.self-4db1374f875e0a1a2ba3389d23cae8f6f0c2672e7e69aeab7645ed51d26e6915.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/materialize/materialbox.self-6c6b2ba48598681c90551b540338699c75cf2f9ada34cc4b22570c217b9292d8.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/materialize/parallax.self-7ac34f0f3dcef83deee116ea473a2770cec13e07c8e0dcce08cc2372bbe295d3.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/materialize/tabs.self-922f8a5ef8f7381c945259a9f1dcaf6d628630cda8fcbbfe182ea653091b165c.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/materialize/tooltip.self-df3538fd067523c8b7f4d50e060340ec0b551ebaba9733e157c404df9a96a185.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/materialize/waves.self-26e9b9cfaa9ccbc292ed510f654bd279d69695f5337a14c9800b36e92f96735b.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/materialize/toasts.self-1eaa9f33c4c3b83f381997876ba6ac53899a5ca72a6b401708c32625fc553adc.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/materialize/sideNav.self-d1aa0f50b6f5d0d9a7086344d806fc133274dd021e58f837cbe39e309012045b.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/materialize/scrollspy.self-9bd8d701ac90c813a0d051ab4943150bdb536d863646d8b349c42a88edb31cf8.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/materialize/forms.self-95e85e335577e28202a4b4034a754320f866221010ed4a0be2cbf6af0dd79f1d.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/materialize/slider.self-8052f7188f9e8ab3d03b246d4942a4824edb9614d0d130051d11ba1354c9c798.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/materialize/chips.self-9b19ca899ba360746581059852bf2a40b3338402eef9df9a7806efd8578056dd.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/materialize/pushpin.self-3e487290a48f23142c992c158b45cbd0be9c83de7c23abbb33b195954d1883cd.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/materialize/buttons.self-fc0951c300b1984a00694eabc8c451531be448d646ac073b05e4d2fbf7209302.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/materialize/transitions.self-c527b205edfdd1f961487c4c7beaf83c335262accb4dff964341a86eb60fd2f2.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/materialize/scrollFire.self-d38b34eac05d33baa79181ef5ba72c67b7f73714ff11cda22495d30f4469298f.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/materialize/date_picker/picker.date.self-5924b278beda2df8570f137f72b37e2d0f516acbc11a0994d1abb74380f078ef.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:49:09 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 212ms (Views: 211.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/materialize/date_picker/picker.self-f7869dc9881d3874917e009ea6e30d68817b1bd1247665fb653e0f87393fb60f.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/materialize/character_counter.self-f3a78940ad5b851c1b7b79d86a5d5d9bdf0dc15e0e58e2a58b3eb57d845fbd37.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/materialize/carousel.self-6f3b9002af3ab4d871a03a44d2e174370720ab31f19a4ee543c1904c32e2befa.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/materialize-sprockets.self-4691589913babdfbd3fb736895105a8e826d4abde842e6d1e8dd2d188e255bc7.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/smoothscroll.self-db493ba7f514800870cb77c14d3b00abb4597b3945c9825eb94cc01df999c182.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/materialize/cards.self-b1de04b6f5f525d63199f556bb55d5b8bdae7170b91bfcb503958bc8ed10945b.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/materialize/date_picker/picker.self-f7869dc9881d3874917e009ea6e30d68817b1bd1247665fb653e0f87393fb60f.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/materialize/character_counter.self-f3a78940ad5b851c1b7b79d86a5d5d9bdf0dc15e0e58e2a58b3eb57d845fbd37.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/materialize/carousel.self-6f3b9002af3ab4d871a03a44d2e174370720ab31f19a4ee543c1904c32e2befa.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/materialize-sprockets.self-4691589913babdfbd3fb736895105a8e826d4abde842e6d1e8dd2d188e255bc7.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/smoothscroll.self-db493ba7f514800870cb77c14d3b00abb4597b3945c9825eb94cc01df999c182.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/application.self-412fefcfba484978a2981bf48c8b20162a50a684bc66f39711eaf9d64aa9cf4a.js?body=1" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/logo-cf9a73eaec651b8e10db8219a8a7fcd073a78d6a2a7e9e14ca08154e8d368554.png" for ::1 at 2017-03-10 10:49:09 -0500
+
+
+Started GET "/assets/landing-a14c3f2fb31bb4a12680d9effcbdbe16dfebca0c1ecfc80459c1fa1dcbf94183.jpg" for ::1 at 2017-03-10 10:49:10 -0500
+
+
+Started GET "/assets/roboto/Roboto-Regular-b5c9c23bd12593523a46d79dd0aee80e3226bbde4c9ac05fc30a95e2c1510de0.woff2" for ::1 at 2017-03-10 10:49:10 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:55:00 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (390.6ms)
+Completed 200 OK in 762ms (Views: 749.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-10 10:55:01 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 169ms (Views: 167.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:55:01 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:55:03 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 128ms (Views: 126.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:55:03 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:57:01 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (401.0ms)
+Completed 200 OK in 749ms (Views: 736.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:57:02 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:57:02 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 174ms (Views: 173.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:57:03 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:57:36 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (510.2ms)
+Completed 200 OK in 849ms (Views: 836.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/materialize/initial.self-5fc251c38da473321319aa59154bbaf8d6a0e5dd635dcb3e4de6f70af7ef6f5c.js?body=1" for ::1 at 2017-03-10 10:57:37 -0500
+
+
+Started GET "/assets/materialize/jquery.easing.1.3.self-0170bc905fbddc075a56bdccce1be6a58f3713a14137b607ba9bd9f96fd7835f.js?body=1" for ::1 at 2017-03-10 10:57:37 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2017-03-10 10:57:37 -0500
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:57:37 -0500
+
+
+Started GET "/assets/materialize/velocity.min.self-5adbb81af5c205a959e06198156b4b31fcd57f02c592e3fb096d7b74e8f401a6.js?body=1" for ::1 at 2017-03-10 10:57:37 -0500
+
+
+Started GET "/assets/materialize/animation.self-a1028b0bcf2e26331bedf7b90e81103f0707e69fdec488aa951de94b51987767.js?body=1" for ::1 at 2017-03-10 10:57:37 -0500
+
+
+Started GET "/assets/materialize/hammer.min.self-bf8bdb0953b1a135f96716e362e1f7a8e64168c914fa77ca31973bb70e57a731.js?body=1" for ::1 at 2017-03-10 10:57:37 -0500
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2017-03-10 10:57:37 -0500
+
+
+Started GET "/assets/materialize/jquery.hammer.self-73fd69102f356b9abfc9ee242b19895f62454f42cfcfa1f066be71d2c8f41c7a.js?body=1" for ::1 at 2017-03-10 10:57:38 -0500
+
+
+Started GET "/assets/materialize/collapsible.self-28e651bb34f045977f525ed2f35a22955e549b9e783851dba0b75b480c75abb2.js?body=1" for ::1 at 2017-03-10 10:57:38 -0500
+
+
+Started GET "/assets/materialize/dropdown.self-a1ff4400a417f25698cc5cc70e36e273953beaf52226d09b3795ce3edc473a66.js?body=1" for ::1 at 2017-03-10 10:57:38 -0500
+
+
+Started GET "/assets/materialize/global.self-90649deff3358499c5859330da1363eea3e2bef75c80df5940f3894778f95027.js?body=1" for ::1 at 2017-03-10 10:57:38 -0500
+
+
+Started GET "/assets/materialize/leanModal.self-4db1374f875e0a1a2ba3389d23cae8f6f0c2672e7e69aeab7645ed51d26e6915.js?body=1" for ::1 at 2017-03-10 10:57:38 -0500
+
+
+Started GET "/assets/materialize/materialbox.self-6c6b2ba48598681c90551b540338699c75cf2f9ada34cc4b22570c217b9292d8.js?body=1" for ::1 at 2017-03-10 10:57:38 -0500
+
+
+Started GET "/assets/materialize/parallax.self-7ac34f0f3dcef83deee116ea473a2770cec13e07c8e0dcce08cc2372bbe295d3.js?body=1" for ::1 at 2017-03-10 10:57:38 -0500
+
+
+Started GET "/assets/materialize/tabs.self-922f8a5ef8f7381c945259a9f1dcaf6d628630cda8fcbbfe182ea653091b165c.js?body=1" for ::1 at 2017-03-10 10:57:38 -0500
+
+
+Started GET "/assets/materialize/tooltip.self-df3538fd067523c8b7f4d50e060340ec0b551ebaba9733e157c404df9a96a185.js?body=1" for ::1 at 2017-03-10 10:57:38 -0500
+
+
+Started GET "/assets/materialize/waves.self-26e9b9cfaa9ccbc292ed510f654bd279d69695f5337a14c9800b36e92f96735b.js?body=1" for ::1 at 2017-03-10 10:57:38 -0500
+
+
+Started GET "/assets/materialize/toasts.self-1eaa9f33c4c3b83f381997876ba6ac53899a5ca72a6b401708c32625fc553adc.js?body=1" for ::1 at 2017-03-10 10:57:38 -0500
+
+
+Started GET "/assets/materialize/scrollspy.self-9bd8d701ac90c813a0d051ab4943150bdb536d863646d8b349c42a88edb31cf8.js?body=1" for ::1 at 2017-03-10 10:57:38 -0500
+
+
+Started GET "/assets/materialize/sideNav.self-d1aa0f50b6f5d0d9a7086344d806fc133274dd021e58f837cbe39e309012045b.js?body=1" for ::1 at 2017-03-10 10:57:38 -0500
+
+
+Started GET "/assets/materialize/forms.self-95e85e335577e28202a4b4034a754320f866221010ed4a0be2cbf6af0dd79f1d.js?body=1" for ::1 at 2017-03-10 10:57:38 -0500
+
+
+Started GET "/assets/materialize/slider.self-8052f7188f9e8ab3d03b246d4942a4824edb9614d0d130051d11ba1354c9c798.js?body=1" for ::1 at 2017-03-10 10:57:38 -0500
+
+
+Started GET "/assets/materialize/chips.self-9b19ca899ba360746581059852bf2a40b3338402eef9df9a7806efd8578056dd.js?body=1" for ::1 at 2017-03-10 10:57:38 -0500
+
+
+Started GET "/assets/materialize/pushpin.self-3e487290a48f23142c992c158b45cbd0be9c83de7c23abbb33b195954d1883cd.js?body=1" for ::1 at 2017-03-10 10:57:38 -0500
+
+
+Started GET "/assets/materialize/buttons.self-fc0951c300b1984a00694eabc8c451531be448d646ac073b05e4d2fbf7209302.js?body=1" for ::1 at 2017-03-10 10:57:38 -0500
+
+
+Started GET "/assets/materialize/transitions.self-c527b205edfdd1f961487c4c7beaf83c335262accb4dff964341a86eb60fd2f2.js?body=1" for ::1 at 2017-03-10 10:57:38 -0500
+
+
+Started GET "/assets/materialize/scrollFire.self-d38b34eac05d33baa79181ef5ba72c67b7f73714ff11cda22495d30f4469298f.js?body=1" for ::1 at 2017-03-10 10:57:38 -0500
+
+
+Started GET "/assets/materialize/date_picker/picker.self-f7869dc9881d3874917e009ea6e30d68817b1bd1247665fb653e0f87393fb60f.js?body=1" for ::1 at 2017-03-10 10:57:38 -0500
+
+
+Started GET "/assets/materialize/character_counter.self-f3a78940ad5b851c1b7b79d86a5d5d9bdf0dc15e0e58e2a58b3eb57d845fbd37.js?body=1" for ::1 at 2017-03-10 10:57:38 -0500
+
+
+Started GET "/assets/materialize/date_picker/picker.date.self-5924b278beda2df8570f137f72b37e2d0f516acbc11a0994d1abb74380f078ef.js?body=1" for ::1 at 2017-03-10 10:57:38 -0500
+
+
+Started GET "/assets/materialize/carousel.self-6f3b9002af3ab4d871a03a44d2e174370720ab31f19a4ee543c1904c32e2befa.js?body=1" for ::1 at 2017-03-10 10:57:38 -0500
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2017-03-10 10:57:38 -0500
+
+
+Started GET "/assets/smoothscroll.self-db493ba7f514800870cb77c14d3b00abb4597b3945c9825eb94cc01df999c182.js?body=1" for ::1 at 2017-03-10 10:57:38 -0500
+
+
+Started GET "/assets/application.self-412fefcfba484978a2981bf48c8b20162a50a684bc66f39711eaf9d64aa9cf4a.js?body=1" for ::1 at 2017-03-10 10:57:38 -0500
+
+
+Started GET "/assets/materialize-sprockets.self-4691589913babdfbd3fb736895105a8e826d4abde842e6d1e8dd2d188e255bc7.js?body=1" for ::1 at 2017-03-10 10:57:38 -0500
+
+
+Started GET "/assets/materialize/cards.self-b1de04b6f5f525d63199f556bb55d5b8bdae7170b91bfcb503958bc8ed10945b.js?body=1" for ::1 at 2017-03-10 10:57:38 -0500
+
+
+Started GET "/assets/logo-cf9a73eaec651b8e10db8219a8a7fcd073a78d6a2a7e9e14ca08154e8d368554.png" for ::1 at 2017-03-10 10:57:38 -0500
+
+
+Started GET "/assets/landing-a14c3f2fb31bb4a12680d9effcbdbe16dfebca0c1ecfc80459c1fa1dcbf94183.jpg" for ::1 at 2017-03-10 10:57:38 -0500
+
+
+Started GET "/assets/roboto/Roboto-Regular-b5c9c23bd12593523a46d79dd0aee80e3226bbde4c9ac05fc30a95e2c1510de0.woff2" for ::1 at 2017-03-10 10:57:38 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 10:58:15 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (422.0ms)
+Completed 200 OK in 771ms (Views: 758.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/materialize/initial.self-5fc251c38da473321319aa59154bbaf8d6a0e5dd635dcb3e4de6f70af7ef6f5c.js?body=1" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/materialize/jquery.easing.1.3.self-0170bc905fbddc075a56bdccce1be6a58f3713a14137b607ba9bd9f96fd7835f.js?body=1" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/materialize/hammer.min.self-bf8bdb0953b1a135f96716e362e1f7a8e64168c914fa77ca31973bb70e57a731.js?body=1" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/materialize/animation.self-a1028b0bcf2e26331bedf7b90e81103f0707e69fdec488aa951de94b51987767.js?body=1" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/materialize/velocity.min.self-5adbb81af5c205a959e06198156b4b31fcd57f02c592e3fb096d7b74e8f401a6.js?body=1" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/materialize/jquery.hammer.self-73fd69102f356b9abfc9ee242b19895f62454f42cfcfa1f066be71d2c8f41c7a.js?body=1" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/materialize/global.self-90649deff3358499c5859330da1363eea3e2bef75c80df5940f3894778f95027.js?body=1" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/materialize/leanModal.self-4db1374f875e0a1a2ba3389d23cae8f6f0c2672e7e69aeab7645ed51d26e6915.js?body=1" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/materialize/collapsible.self-28e651bb34f045977f525ed2f35a22955e549b9e783851dba0b75b480c75abb2.js?body=1" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/materialize/dropdown.self-a1ff4400a417f25698cc5cc70e36e273953beaf52226d09b3795ce3edc473a66.js?body=1" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/materialize/materialbox.self-6c6b2ba48598681c90551b540338699c75cf2f9ada34cc4b22570c217b9292d8.js?body=1" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/materialize/parallax.self-7ac34f0f3dcef83deee116ea473a2770cec13e07c8e0dcce08cc2372bbe295d3.js?body=1" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/materialize/tabs.self-922f8a5ef8f7381c945259a9f1dcaf6d628630cda8fcbbfe182ea653091b165c.js?body=1" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/materialize/tooltip.self-df3538fd067523c8b7f4d50e060340ec0b551ebaba9733e157c404df9a96a185.js?body=1" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/materialize/waves.self-26e9b9cfaa9ccbc292ed510f654bd279d69695f5337a14c9800b36e92f96735b.js?body=1" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/materialize/toasts.self-1eaa9f33c4c3b83f381997876ba6ac53899a5ca72a6b401708c32625fc553adc.js?body=1" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/materialize/sideNav.self-d1aa0f50b6f5d0d9a7086344d806fc133274dd021e58f837cbe39e309012045b.js?body=1" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/materialize/forms.self-95e85e335577e28202a4b4034a754320f866221010ed4a0be2cbf6af0dd79f1d.js?body=1" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/materialize/scrollspy.self-9bd8d701ac90c813a0d051ab4943150bdb536d863646d8b349c42a88edb31cf8.js?body=1" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/materialize/chips.self-9b19ca899ba360746581059852bf2a40b3338402eef9df9a7806efd8578056dd.js?body=1" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/materialize/cards.self-b1de04b6f5f525d63199f556bb55d5b8bdae7170b91bfcb503958bc8ed10945b.js?body=1" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/materialize/slider.self-8052f7188f9e8ab3d03b246d4942a4824edb9614d0d130051d11ba1354c9c798.js?body=1" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/materialize/pushpin.self-3e487290a48f23142c992c158b45cbd0be9c83de7c23abbb33b195954d1883cd.js?body=1" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/materialize/transitions.self-c527b205edfdd1f961487c4c7beaf83c335262accb4dff964341a86eb60fd2f2.js?body=1" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/materialize/scrollFire.self-d38b34eac05d33baa79181ef5ba72c67b7f73714ff11cda22495d30f4469298f.js?body=1" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/materialize/buttons.self-fc0951c300b1984a00694eabc8c451531be448d646ac073b05e4d2fbf7209302.js?body=1" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/materialize/date_picker/picker.self-f7869dc9881d3874917e009ea6e30d68817b1bd1247665fb653e0f87393fb60f.js?body=1" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/materialize/date_picker/picker.date.self-5924b278beda2df8570f137f72b37e2d0f516acbc11a0994d1abb74380f078ef.js?body=1" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/materialize/carousel.self-6f3b9002af3ab4d871a03a44d2e174370720ab31f19a4ee543c1904c32e2befa.js?body=1" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/materialize/character_counter.self-f3a78940ad5b851c1b7b79d86a5d5d9bdf0dc15e0e58e2a58b3eb57d845fbd37.js?body=1" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/materialize-sprockets.self-4691589913babdfbd3fb736895105a8e826d4abde842e6d1e8dd2d188e255bc7.js?body=1" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/smoothscroll.self-db493ba7f514800870cb77c14d3b00abb4597b3945c9825eb94cc01df999c182.js?body=1" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/application.self-412fefcfba484978a2981bf48c8b20162a50a684bc66f39711eaf9d64aa9cf4a.js?body=1" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/logo-cf9a73eaec651b8e10db8219a8a7fcd073a78d6a2a7e9e14ca08154e8d368554.png" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/landing-a14c3f2fb31bb4a12680d9effcbdbe16dfebca0c1ecfc80459c1fa1dcbf94183.jpg" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/assets/roboto/Roboto-Regular-b5c9c23bd12593523a46d79dd0aee80e3226bbde4c9ac05fc30a95e2c1510de0.woff2" for ::1 at 2017-03-10 10:58:16 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 11:00:59 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (422.4ms)
+Completed 200 OK in 776ms (Views: 764.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 11:01:00 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 11:02:56 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (400.8ms)
+Completed 200 OK in 756ms (Views: 743.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 11:02:57 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 11:03:35 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (446.2ms)
+Completed 200 OK in 803ms (Views: 791.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 11:03:36 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 11:05:45 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (458.3ms)
+Completed 200 OK in 810ms (Views: 797.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 11:05:46 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 11:06:55 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (400.5ms)
+Completed 200 OK in 751ms (Views: 738.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 11:06:56 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 11:07:42 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (416.9ms)
+Completed 200 OK in 826ms (Views: 814.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 11:07:43 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 11:08:23 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (432.9ms)
+Completed 200 OK in 790ms (Views: 773.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 11:08:24 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 11:09:40 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (391.7ms)
+Completed 200 OK in 724ms (Views: 712.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 11:09:41 -0500
+
+
+Started GET "/?action=" for ::1 at 2017-03-10 11:10:52 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 177ms (Views: 175.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 11:10:52 -0500
+
+
+Started GET "/?action=" for ::1 at 2017-03-10 11:13:53 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (400.7ms)
+Completed 200 OK in 763ms (Views: 750.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 11:13:54 -0500
+
+
+Started GET "/?action=" for ::1 at 2017-03-10 11:14:29 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (459.3ms)
+Completed 200 OK in 789ms (Views: 777.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 11:14:30 -0500
+
+
+Started GET "/?action=" for ::1 at 2017-03-10 11:14:32 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 153ms (Views: 152.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 11:14:32 -0500
+
+
+Started GET "/?action=" for ::1 at 2017-03-10 11:15:31 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (462.8ms)
+Completed 200 OK in 808ms (Views: 795.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 11:15:32 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 11:16:46 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (554.3ms)
+Completed 200 OK in 956ms (Views: 943.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-10 11:16:47 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 163ms (Views: 161.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 11:16:47 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 11:18:29 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (422.2ms)
+Completed 200 OK in 790ms (Views: 776.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 11:18:30 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 11:19:22 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (405.1ms)
+Completed 200 OK in 741ms (Views: 729.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 11:19:23 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 11:21:34 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (398.9ms)
+Completed 200 OK in 759ms (Views: 746.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 11:21:35 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 11:21:35 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 189ms (Views: 187.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-10 11:22:36 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (403.7ms)
+Completed 200 OK in 766ms (Views: 753.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 11:22:37 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 11:24:09 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (427.9ms)
+Completed 200 OK in 831ms (Views: 816.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 11:24:11 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 11:26:50 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (501.9ms)
+Completed 200 OK in 845ms (Views: 832.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 11:26:51 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 11:28:56 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (413.8ms)
+Completed 200 OK in 772ms (Views: 759.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 11:28:57 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 11:29:28 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (413.1ms)
+Completed 200 OK in 763ms (Views: 750.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 11:29:29 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 11:30:23 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (452.9ms)
+Completed 200 OK in 816ms (Views: 803.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 11:30:25 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 11:31:09 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 214ms (Views: 213.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 11:31:10 -0500
+
+
+Started GET "/" for ::1 at 2017-03-10 11:36:40 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (380.1ms)
+Completed 200 OK in 754ms (Views: 741.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-86d3a674fb23d1ca1899d2456805adc38c9122dd1d4fb8e22c0c26b9f0b97529.css?body=1" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/materialize/initial.self-5fc251c38da473321319aa59154bbaf8d6a0e5dd635dcb3e4de6f70af7ef6f5c.js?body=1" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/materialize/jquery.easing.1.3.self-0170bc905fbddc075a56bdccce1be6a58f3713a14137b607ba9bd9f96fd7835f.js?body=1" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/materialize/animation.self-a1028b0bcf2e26331bedf7b90e81103f0707e69fdec488aa951de94b51987767.js?body=1" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/materialize/velocity.min.self-5adbb81af5c205a959e06198156b4b31fcd57f02c592e3fb096d7b74e8f401a6.js?body=1" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/materialize/jquery.hammer.self-73fd69102f356b9abfc9ee242b19895f62454f42cfcfa1f066be71d2c8f41c7a.js?body=1" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/materialize/hammer.min.self-bf8bdb0953b1a135f96716e362e1f7a8e64168c914fa77ca31973bb70e57a731.js?body=1" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/materialize/global.self-90649deff3358499c5859330da1363eea3e2bef75c80df5940f3894778f95027.js?body=1" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/materialize/collapsible.self-28e651bb34f045977f525ed2f35a22955e549b9e783851dba0b75b480c75abb2.js?body=1" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/materialize/dropdown.self-a1ff4400a417f25698cc5cc70e36e273953beaf52226d09b3795ce3edc473a66.js?body=1" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/materialize/leanModal.self-4db1374f875e0a1a2ba3389d23cae8f6f0c2672e7e69aeab7645ed51d26e6915.js?body=1" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/materialize/materialbox.self-6c6b2ba48598681c90551b540338699c75cf2f9ada34cc4b22570c217b9292d8.js?body=1" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/materialize/tabs.self-922f8a5ef8f7381c945259a9f1dcaf6d628630cda8fcbbfe182ea653091b165c.js?body=1" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/materialize/tooltip.self-df3538fd067523c8b7f4d50e060340ec0b551ebaba9733e157c404df9a96a185.js?body=1" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/materialize/parallax.self-7ac34f0f3dcef83deee116ea473a2770cec13e07c8e0dcce08cc2372bbe295d3.js?body=1" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/materialize/waves.self-26e9b9cfaa9ccbc292ed510f654bd279d69695f5337a14c9800b36e92f96735b.js?body=1" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/materialize/toasts.self-1eaa9f33c4c3b83f381997876ba6ac53899a5ca72a6b401708c32625fc553adc.js?body=1" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/materialize/sideNav.self-d1aa0f50b6f5d0d9a7086344d806fc133274dd021e58f837cbe39e309012045b.js?body=1" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/materialize/scrollspy.self-9bd8d701ac90c813a0d051ab4943150bdb536d863646d8b349c42a88edb31cf8.js?body=1" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/materialize/forms.self-95e85e335577e28202a4b4034a754320f866221010ed4a0be2cbf6af0dd79f1d.js?body=1" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/materialize/slider.self-8052f7188f9e8ab3d03b246d4942a4824edb9614d0d130051d11ba1354c9c798.js?body=1" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/materialize/chips.self-9b19ca899ba360746581059852bf2a40b3338402eef9df9a7806efd8578056dd.js?body=1" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/materialize/pushpin.self-3e487290a48f23142c992c158b45cbd0be9c83de7c23abbb33b195954d1883cd.js?body=1" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/materialize/buttons.self-fc0951c300b1984a00694eabc8c451531be448d646ac073b05e4d2fbf7209302.js?body=1" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/materialize/transitions.self-c527b205edfdd1f961487c4c7beaf83c335262accb4dff964341a86eb60fd2f2.js?body=1" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/materialize/scrollFire.self-d38b34eac05d33baa79181ef5ba72c67b7f73714ff11cda22495d30f4469298f.js?body=1" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/materialize/date_picker/picker.self-f7869dc9881d3874917e009ea6e30d68817b1bd1247665fb653e0f87393fb60f.js?body=1" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/materialize/date_picker/picker.date.self-5924b278beda2df8570f137f72b37e2d0f516acbc11a0994d1abb74380f078ef.js?body=1" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/materialize/character_counter.self-f3a78940ad5b851c1b7b79d86a5d5d9bdf0dc15e0e58e2a58b3eb57d845fbd37.js?body=1" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/materialize/carousel.self-6f3b9002af3ab4d871a03a44d2e174370720ab31f19a4ee543c1904c32e2befa.js?body=1" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/materialize-sprockets.self-4691589913babdfbd3fb736895105a8e826d4abde842e6d1e8dd2d188e255bc7.js?body=1" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/application.self-412fefcfba484978a2981bf48c8b20162a50a684bc66f39711eaf9d64aa9cf4a.js?body=1" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/materialize/cards.self-b1de04b6f5f525d63199f556bb55d5b8bdae7170b91bfcb503958bc8ed10945b.js?body=1" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/smoothscroll.self-db493ba7f514800870cb77c14d3b00abb4597b3945c9825eb94cc01df999c182.js?body=1" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/logo-cf9a73eaec651b8e10db8219a8a7fcd073a78d6a2a7e9e14ca08154e8d368554.png" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/landing-a14c3f2fb31bb4a12680d9effcbdbe16dfebca0c1ecfc80459c1fa1dcbf94183.jpg" for ::1 at 2017-03-10 11:36:41 -0500
+
+
+Started GET "/assets/roboto/Roboto-Regular-b5c9c23bd12593523a46d79dd0aee80e3226bbde4c9ac05fc30a95e2c1510de0.woff2" for ::1 at 2017-03-10 11:36:42 -0500

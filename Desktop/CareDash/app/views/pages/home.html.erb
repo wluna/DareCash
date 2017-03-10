@@ -1,66 +1,101 @@
-<div class="row">
-  <div class="col s9">
-    <div class="card blue-grey">
-      <div class="card-content white-text">
-        <span class="card-title">Card Title</span>
-        <p>I am a very simple card. I am good at containing small bits of information.
-        I am convenient because I require little markup to use effectively.</p>
+
+  <div class="row">
+
+    <div class="col s12 m9">
+      <div class="parallax-container">
+        <div class="parallax">
+          <%= image_tag("landing.jpg", :alt => "rss feed") %>
+        </div>
+        <div class="row"></div>
+        <div class="row"></div>
+        <div class="row"></div>
+        <div class="row"></div>
+        <div class="row hide-on-medium-down"></div>
+        <div class="row hide-on-medium-down"></div>
+        <div class="center">
+          <div class="container">
+            <h1> Find Better Care. </h1>
+            <h3 class="hide-on-small-only"> Thousands of verified reviews bring the best doctors to you. 
+            </h3>
+            <div class="hide-on-med-and-up">
+              <div class="row">
+                <a class="waves-effect waves-light btn">Reviews</a>
+                <a class="waves-effect waves-light btn">Articles</a>
+              </div>
+              <div clas="row">
+                <a class="waves-effect waves-light btn green">Rate Your Doctor</a>
+              </div>
+            </div>
+          </div>
+
+        </div>
       </div>
     </div>
+
+    <form class="col s12 m3">
+      <h4> Sign Up </h4>
+      <div class="row">
+        <div class="input-field col s12">
+          <input id="first_name" type="text" class="validate">
+          <label for="first_name">First Name</label>
+        </div>
+      </div>
+      <div class="row">
+        <div class="input-field col s12">
+          <input id="last_name" type="text" class="validate">
+          <label for="last_name">Last Name</label>
+        </div>
+      </div>
+      <div class="row">
+        <div class="input-field col s12">
+          <input id="email" type="email" class="validate">
+          <label for="email">Email Address</label>
+        </div>
+      </div>
+      <div class="row">
+        <div class="input-field col s12">
+          <input id="password" type="password" class="validate">
+          <label for="password">Password</label>
+        </div>
+      </div>
+      <div class="row">
+        <button class="btn waves-effect waves-light" type="submit" name="action">Submit
+          <i class="material-icons right">send</i>
+        </button>
+      </div>
+    </form>
   </div>
-  <form class="col s3">
-    <div class="row">
-      <div class="input-field col s12">
-        <input id="first_name" type="text" class="validate">
-        <label for="first_name">First Name</label>
-      </div>
-    </div>
-    <div class="row">
-      <div class="input-field col s12">
-        <input id="last_name" type="text" class="validate">
-        <label for="last_name">Last Name</label>
-      </div>
-    </div>
-    <div class="row">
-      <div class="input-field col s12">
-        <input id="email" type="email" class="validate">
-        <label for="email">Email Address</label>
-      </div>
-    </div>
-    <div class="row">
-      <div class="input-field col s12">
-        <input id="password" type="password" class="validate">
-        <label for="password">Password</label>
-      </div>
-    </div>
-  </form>
-</div>
 
 <div>
-  <h5 class="center-align">Reasons to Sign Up as a Provider on CareDash</h5>
+  <h3 class="center-align teal-text">Reasons to Sign Up as a Provider on CareDash</h3>
 </div>
 
 <div class="container">
   <div class="row">
-    <div class="col s4">
-      <h1 class="center-align"> Headline </h1>
-      <p>lorem ipsum</p>
-      <a class="waves-effect waves-light btn">Learn More</a>
+    <div class="col s12 m4">
+      <h4 class="center-align"> Find Patients </h4>
+      <p class="center-align">All of our users are in the market for a new healthcare provider. New clients are waiting to meet you.</p>
+      <div class="center">
+        <a class="teal-text center-align" href="">Learn More</a>
+      </div>
     </div>
-    <div class="col s4">
-      <h1 class="center-align"> Headline </h1>
-      <p>lorem ipsum</p>
-      <a class="waves-effect waves-light btn">Learn More</a>
+    <div class="col s12 m4">
+      <h4 class="center-align"> Contribute </h4>
+      <p class="center-align">Have you written any new articles recently? Let the community know by posting them on our forums.</p>
+      <div class="center">
+        <a class="teal-text center-align" href="">Learn More</a>
+      </div>
     </div>
-    <div class="col s4">
-      <h1 class="center-align"> Headline </h1>
-      <p>lorem ipsum</p>
-      <a class="waves-effect waves-light btn">Learn More</a>
+    <div class="col s12 m4">
+      <h4 class="center-align"> Stand Out </h4>
+      <p class="center-align">When our users have a positive experience, the whole community knows. Let your expertise shine by word of mouth, online.</p>
+      <div class="center">
+        <a class="teal-text center-align" href="">Learn More</a>
+      </div>
     </div>
   </div>
 </div>
-
-<footer class="page-footer">
+<footer class="page-footer teal">
   <div class="container">
     <div class="row">
       <div class="col s3">
@@ -85,6 +120,8 @@
         <h5 class="white-text">Follow Us</h5>
         <ul>
           <li><a class="grey-text text-lighten-3" href="#!">Facebook</a></li>
+          <li><a class="grey-text text-lighten-3" href="#!">Twitter</a></li>
+          <li><a class="grey-text text-lighten-3" href="#!">LinkedIn</a></li>
         </ul>
       </div>
     </div>
